@@ -55,7 +55,7 @@ Conference & Workshop attendance:
       - Conference Talk: SIAM Conference on Uncertainty Quantification (UQ24, Italy)
     - 2023:
       - Conference Talk: Inverse Days (Finland)
-      - Poster: Computational Mathematics for Data Science (CMODS, Denmark)
+      - Poster: Computational Mathematics for Data Science (CMDS, Denmark)
       - Conference Talk: Applied Inverse Problems (AIP23, Germany)
       - Conference Talk: SIAM Conference on Computational Science and Engineering (CSE23)
     - 2022:
