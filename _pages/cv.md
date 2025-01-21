@@ -57,7 +57,7 @@ Conference & Workshop attendance:
       - Conference Talk: Inverse Days (Finland)
       - Poster: Computational Mathematics for Data Science (CMDS, Denmark)
       - Conference Talk: Applied Inverse Problems (AIP23, Germany)
-      - Conference Talk: SIAM Conference on Computational Science and Engineering (CSE23)
+      - Conference Talk: SIAM Conference on Computational Science and Engineering (CSE23, Netherlands)
     - 2022:
       - Short Talk: Inverse Days (Finland)
       - Workshop Talk: Imaging with Uncertainty Quantification (IUQ22, Denmark)
