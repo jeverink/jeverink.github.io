@@ -9,12 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+Research Experience:
+======
+- Postdoc <sub>Oct 2024 - Current</sub>
+  - Institute: Technical University of Denmark, Kgs. Lyngby, Denmark
+  - Research project: [CUQI, Computational Uncertainty Quantification for Inverse Problems](https://sites.dtu.dk/cuqi) 
 
 Education:
 ======
 - PhD <sub>Oct 2021 - Sep 2024</sub>
   - Institute: Technical University of Denmark, Kgs. Lyngby, Denmark
-  - Research project: CUQI, Computational Uncertainty Quantification for Inverse Problems
+  - Research project: [CUQI, Computational Uncertainty Quantification for Inverse Problems](https://sites.dtu.dk/cuqi) 
   - Thesis: Uncertainty Quantification for Inverse Problems with Sparsity-Promoting Implicit Priors. <sub>Not yet publically available</sub>
 - Master of Science (MSc), Mathematical Sciences <sub>Sep 2018 - Aug 2021, distinction: cum laude</sub>
   - Institute: Utrecht University, Utrecht, Netherlands
@@ -45,7 +50,7 @@ Teaching:
   </pre></small>
 </details>
 
-Conference & Workshop attendance:
+Conference & Workshop Attendance:
 ======
 <details>
     <small><pre>
