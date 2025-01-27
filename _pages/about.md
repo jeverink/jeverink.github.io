@@ -23,10 +23,10 @@ Research Interests:
 
 My general research interest lie in using techniques from mathematical optimization, numerical mathematics and probability theory/statistics in inverse problems, image processing and machine learning. In particular, the theory and application of regularization strategies and prior modeling.
 
-Recent Research:
+Recent Work:
 ======
 
 - Theory of constraints and sparsity-promoting regularization for linear inverse problems, and its applications to uncertainty quantification. ([Constraints](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:d1gkVwhDpl0C), [Sparsity 1](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:9yKSN-GCB0IC)[, 2](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:u-x6o8ySG0sC) )
-- Bayesian and frequentist approaches to uncertainty quantification for inverse problems.
 - Regularization and prior modelling for imaging. ([EIT](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:2osOgNQ5qMEC))
 - Contributions to the CUQIpy software package for Computational Uncertainty Quantification for Inverse problems in Python: [<img src="images/imgs/cuqipy.png" width="10%" height="10%">](https://cuqi-dtu.github.io/CUQIpy/).
+- Bayesian and frequentist approaches to uncertainty quantification for inverse problems.
