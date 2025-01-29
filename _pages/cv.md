@@ -40,10 +40,10 @@ Teaching:
 - Teaching assistance (TA) throughout PhD and Masters: 
 <details><small>
   <pre>
-  - During PhD:
+  - During PhD at the Technical University of Denmark:
     - Mathematical Software Programming (Fall 2022, Fall 2023) 
     - Optimization and Data Fitting (Fall 2022)
-  - During Masters:
+  - During Masters at Utrecht University:
     - Numerical Mathematics (Fall 2018, Fall 2019, Fall 2020)
     - Calculus and Linear Algebra 1 & 2 (Fall 2020)
     - Stochastic Processes (Spring 2020)
