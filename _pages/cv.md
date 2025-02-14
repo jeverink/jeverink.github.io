@@ -20,7 +20,7 @@ Education:
 - PhD <sub>Oct 2021 - Sep 2024</sub>
   - Institute: Technical University of Denmark, Kgs. Lyngby, Denmark
   - Research project: [CUQI, Computational Uncertainty Quantification for Inverse Problems](https://sites.dtu.dk/cuqi) 
-  - Thesis: Uncertainty Quantification for Inverse Problems with Sparsity-Promoting Implicit Priors. <sub>Not yet publically available</sub>
+  - Thesis: Uncertainty Quantification for Inverse Problems with Sparsity-Promoting Implicit Priors. <sub>[thesis](https://orbit.dtu.dk/files/390213132/phd_thesis_JMEV.pdf)</sub>
 - Master of Science (MSc), Mathematical Sciences <sub>Sep 2018 - Aug 2021, distinction: cum laude</sub>
   - Institute: Utrecht University, Utrecht, Netherlands
   - Track: Scientific Computing
