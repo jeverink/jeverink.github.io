@@ -11,7 +11,7 @@ redirect_from:
 
 Research Experience:
 ======
-- Postdoc <sub>Oct 2024 - Current</sub>
+- Postdoc <sub>Oct 2024 - Current (until Sep 2025)</sub>
   - Institute: Technical University of Denmark, Kgs. Lyngby, Denmark
   - Research project: [CUQI, Computational Uncertainty Quantification for Inverse Problems](https://sites.dtu.dk/cuqi) 
 
