@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-- Everink, J. M., Tama Amougou, B., & Pereyra M., Self-supervised conformal prediction for uncertainty quantification in imaging problems, submitted. [arXiv](https://arxiv.org/abs/2502.05127)
+- Everink, J. M., Tama Amougou, B., & Pereyra M., Self-supervised conformal prediction for uncertainty quantification in imaging problems, accepted for presentation at SSVM2025. [arXiv](https://arxiv.org/abs/2502.05127)
 - Everink, J. M., Dong, Y., & Andersen, M. S. (2024). The geometry and well-posedness of sparse regularized linear regression. arXiv preprint arXiv:2409.03461. [arXiv](https://arxiv.org/abs/2409.03461)
 - Alghamdi, A. M. A., Carøe, M. S., Everink, J. M., Jørgensen, J. S., Knudsen, K., Nielsen, J. T. K., ... & Zhang, C. (2024). Spatial regularization and level-set methods for experimental electrical impedance tomography with partial data. Applied Mathematics for Modern Challenges, 0-0. [AIMS](https://www.aimsciences.org/article/doi/10.3934/ammc.2024013)
 - Everink, J. M., Dong, Y., & Andersen, M. S. (2023). Sparse Bayesian inference with regularized Gaussian distributions. Inverse Problems, 39(11), 115004. [IOP](https://iopscience.iop.org/article/10.1088/1361-6420/acf9c5)
