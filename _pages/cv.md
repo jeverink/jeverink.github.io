@@ -54,6 +54,8 @@ Conference & Workshop Attendance:
 ======
 <details>
     <small><pre>
+    - 2025:
+      - Conference Talk: SSVM (UK)
     - 2024:
       - Conference Talk: Inverse Days (Finland)
       - Workshop Talk: Uncertainty Quantification for Inverse Problems and Imaging (UQIPI24, United Kingdom)
