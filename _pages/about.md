@@ -21,7 +21,7 @@ The CUQI project's software package: [CUQIpy](https://cuqi-dtu.github.io/CUQIpy/
 Research Interests:
 ======
 
-My general research interest lie in using techniques from mathematical optimization, numerical mathematics and probability theory/statistics in inverse problems, image processing and machine learning. In particular, the theory and application of regularization strategies and prior modeling.
+My general research interests lie in using techniques from mathematical optimization, numerical mathematics and probability theory/statistics in inverse problems, image processing and machine learning. In particular, the theory and application of regularization strategies and prior modeling.
 
 Recent Work:
 ======
