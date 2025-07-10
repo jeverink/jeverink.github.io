@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+- Zhang, C., Everink, J. M., & Jørgensen, J. S. (2025). Fast Gaussian processes under monotonicity constraints. arXiv preprint  arXiv:2507.06677. [arXiv](https://arxiv.org/abs/2507.06677)
 - Everink, J. M., Tama Amougou, B., & Pereyra M. (2025). Self-supervised conformal prediction for uncertainty quantification in imaging problems, Presented at SSVM2025. [arXiv](https://arxiv.org/abs/2502.05127), [Springer](https://link.springer.com/chapter/10.1007/978-3-031-92366-1_9)
 - Everink, J. M., Dong, Y., & Andersen, M. S. (2024). The geometry and well-posedness of sparse regularized linear regression. arXiv preprint arXiv:2409.03461. [arXiv](https://arxiv.org/abs/2409.03461)
 - Alghamdi, A. M. A., Carøe, M. S., Everink, J. M., Jørgensen, J. S., Knudsen, K., Nielsen, J. T. K., ... & Zhang, C. (2024). Spatial regularization and level-set methods for experimental electrical impedance tomography with partial data. Applied Mathematics for Modern Challenges, 0-0. [AIMS](https://www.aimsciences.org/article/doi/10.3934/ammc.2024013)
