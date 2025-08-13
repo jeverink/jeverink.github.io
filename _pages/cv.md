@@ -22,14 +22,14 @@ Education:
   - Research project: [CUQI, Computational Uncertainty Quantification for Inverse Problems](https://sites.dtu.dk/cuqi) 
   - Thesis: Uncertainty Quantification for Inverse Problems with Sparsity-Promoting Implicit Priors. <sub>[thesis](https://orbit.dtu.dk/files/390213132/phd_thesis_JMEV.pdf)</sub>
 - Master of Science (MSc), Mathematical Sciences <sub>Sep 2018 - Aug 2021, distinction: cum laude</sub>
-  - Institute: Utrecht University, Utrecht, Netherlands
+  - Institute: Utrecht University, Utrecht, the Netherlands
   - Track: Scientific Computing
   - Thesis: One-bit Compressed Sensing with Generative Models. <sub>[thesis](https://studenttheses.uu.nl/bitstream/handle/20.500.12932/41296/Master_thesis_Jasper_Everink.pdf)</sub>
 - Bachelor of Science (BSc), Mathematics <sub>Sep 2015 - Aug 2018, distiction: cum laude</sub>
-  - Institute: Utrecht University, Utrecht, Netherlands
+  - Institute: Utrecht University, Utrecht, the Netherlands
   - Thesis: Numerically Solving The Wave Equation Using The Finite Element Method. <sub>[thesis](https://studenttheses.uu.nl/bitstream/handle/20.500.12932/29861/thesis.pdf)</sub>
 - Bachelor of Science (BSc), Computer Science <sub>Sep 2015 - Aug 2018, distiction: cum laude</sub>
-  - Institute: Utrecht University, Utrecht, Netherlands
+  - Institute: Utrecht University, Utrecht, the Netherlands
   - Specialization: Game Technology
   - Thesis: FormalZ (Can Learning Formal Specification Be Fun? See related publication: [arXiv](https://arxiv.org/abs/1903.00334))
 
