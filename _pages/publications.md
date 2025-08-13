@@ -18,7 +18,7 @@ redirect_from:
 - Prasetya, W., Leek, C., Melkonian, O., ten Tusscher, J., van Bergen, J., Everink, J., ... & van Zon, W. (2019, May). Having fun in learning formal specifications. In 2019 IEEE/ACM 41st International Conference on Software Engineering: Software Engineering Education and Training (ICSE-SEET) (pp. 192-196). IEEE. [arXiv](https://arxiv.org/abs/1903.00334), [IEEE](https://ieeexplore.ieee.org/abstract/document/8802100)
 
 
-Thesis
+Theses
 ======
 - Phd: Uncertainty Quantification for Inverse Problems with Sparsity-Promoting Implicit Priors. [thesis](https://orbit.dtu.dk/files/390213132/phd_thesis_JMEV.pdf)
 - MSc. Mathematical Sciences: One-bit Compressed Sensing with Generative Models. [thesis](https://studenttheses.uu.nl/bitstream/handle/20.500.12932/41296/Master_thesis_Jasper_Everink.pdf)
