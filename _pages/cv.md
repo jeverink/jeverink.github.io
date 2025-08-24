@@ -36,7 +36,8 @@ Education:
 Teaching:
 ======
 - Taught 1.5 days for Introduction to Uncertainty Quantification for Inverse Problems (PhD level course, Summer 2024)
-- Occasional substitute teacher: Inverse Problems and Imaging (Fall 2022), Optimization and Data Fitting (2024)
+- Occasional substitute teacher: Inverse Problems and Imaging (Fall 2022), Optimization and Data Fitting (Fall 2024)
+- Teaching related course: DTU Teaching Lab (2.5 ECTS, Summer 2022)
 - Teaching assistance (TA) throughout PhD and Masters: 
 <details><small>
   <pre>
