@@ -39,7 +39,7 @@ Many applied scientists are not familiar with the mathematical and/or computatat
 
 Examples of recent work (all of which come with code):
 - [Gaussian Processes under Monotonicity Constraints](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:eQOLeE2rZwMC)
-- [Electrical impedance tomography (EIT)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:2osOgNQ5qMEC)
+- [Electrical impedance tomography (EIT) with partial data](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:2osOgNQ5qMEC)
 - Contributions to the CUQIpy software package for Computational Uncertainty Quantification for Inverse problems in Python: [<img src="images/imgs/cuqipy.png" width="10%" height="10%">](https://cuqi-dtu.github.io/CUQIpy/).
 
 
