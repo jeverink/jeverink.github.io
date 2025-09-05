@@ -25,7 +25,7 @@ Well chosen regularization and priors has various benefits. It allows us to stil
 
 Examples of recent work:
 - Theory of constraints and sparsity-promoting regularization for linear inverse problems, and its applications to uncertainty quantification. ([Constraints](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:d1gkVwhDpl0C), [Sparsity 1](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:9yKSN-GCB0IC)[, 2](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:u-x6o8ySG0sC))
-- [One-bit compressed sensing with generative models (MsC thesis)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:IjCSPb-OGe4C)
+- [One-bit compressed sensing with generative models (MSc thesis)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:IjCSPb-OGe4C)
 
 
 
