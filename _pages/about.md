@@ -17,7 +17,7 @@ Research Interests:
 My general research interests lie in using techniques from mathematical optimization, numerical mathematics and probability theory/statistics in inverse problems, image processing and machine learning. In particular, the theory and application of regularization strategies and prior modeling.
 
 
-Understanding and developing regularization strategies and prior modeling
+Understanding regularization strategies and prior modeling
 -------------------
 <!-- Write a small description here
 Well chosen regularization and priors has various benefits. It allows us to still obtain good reconstructions even if the amount of data is limited or the data is heavily corrupted. It also allows us to increase the efficiency of the reconstruction when combined with efficient. But designing these regularization and priors can be difficult, with there generally being a trade-off between the complexity of the information we try to promote and the efficiency of the algorithms.
