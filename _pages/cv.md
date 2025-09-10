@@ -11,7 +11,10 @@ redirect_from:
 
 Research Experience:
 ======
-- Postdoc <sub>Oct 2024 - Current (until Sep 2025)</sub>
+- Postdoctoral Researcher <sub>Oct 2025 - Currently</sub>
+  - Institute: University of Eastern Finland, Kuopio, Finland
+  - Research project: Inverse problems in functional and quantitative MRI
+- Postdoctoral Researcher <sub>Oct 2024 - Sep 2025</sub>
   - Institute: Technical University of Denmark, Kgs. Lyngby, Denmark
   - Research project: [CUQI, Computational Uncertainty Quantification for Inverse Problems](https://sites.dtu.dk/cuqi) 
 
