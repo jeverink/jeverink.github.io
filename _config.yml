@@ -24,9 +24,9 @@ author:
   avatar           : "imgs/profile.png"
   name             : "Jasper M. Everink"
   pronouns         : # example: "she/her"  
-  bio              : "Applied mathematician, postdoc at the Technical University of Denmark"
-  location         : "Copenhagen, Denmark"
-  employer         : "DTU"
+  bio              : "Applied mathematician, postdoc at the University of Eastern Finland "
+  location         : "Kuopio, Finland"
+  employer         : "UEF"
   uri              : # URL
   email            : "jmev@dtu.dk" 
 
