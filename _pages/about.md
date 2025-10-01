@@ -7,7 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral researcher at the Technical University of Denmark as part of the [CUQI research project](https://sites.dtu.dk/cuqi) on Computational Uncertainty Quantification for Inverse Problems. I currently work on the use of tools from mathematical optimization for modeling and sampling in Bayesian inverse problems.
+
+I am currently a postdoctoral researcher at the University of Eastern Finland as part of the inverse problems research group. I currently work on inverse problems in functional and quantitative MRI.
+
+Previously:
+======
+Until September 2025, I was a postdoctoral researcher at the Technical University of Denmark as part of the [CUQI research project](https://sites.dtu.dk/cuqi) on Computational Uncertainty Quantification for Inverse Problems. I worked on the use of tools from mathematical optimization for modeling and sampling in Bayesian inverse problems.
 
 [<img src="images/imgs/cuqi.jpg">](https://sites.dtu.dk/cuqi) 
 

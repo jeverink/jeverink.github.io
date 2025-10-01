@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
 - Everink, J. M., Zhang, C., Alghamdi, A. M. A., Laumont, R., Riis, N. A. B., & Jørgensen, J. S. (2025). A computational framework and implementation of implicit priors in Bayesian inverse problems. arXiv preprint  arXiv:2509.11781. Submitted to ACM Transactions on Mathematical Software. [arXiv](https://arxiv.org/abs/2509.11781)
 - Rud, M., Dong, Y., Everink, J. M., Järleblad, H., Jørgensen, J. S., Kernel, Q., Madsen, B., Podestà, M., Valentini, A., Salewski, M., and the TCV Team (2025). Bayesian inference of fast-ion distribution functions in TCV using fast-ion D-alpha spectroscopy. Submitted to Plasma Physics and Controlled Fusion.
 - Zhang, C., Everink, J. M., & Jørgensen, J. S. (2025). Fast Gaussian processes under monotonicity constraints. arXiv preprint  arXiv:2507.06677. Submitted to Journal of Computational Physics. [arXiv](https://arxiv.org/abs/2507.06677)
