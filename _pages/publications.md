@@ -8,10 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
-- Everink, J. M., Zhang, C., Alghamdi, A. M. A., Laumont, R., Riis, N. A. B., & Jørgensen, J. S. (2025). A computational framework and implementation of implicit priors in Bayesian inverse problems. arXiv preprint  arXiv:2509.11781. [arXiv](https://arxiv.org/abs/2509.11781)
-- Zhang, C., Everink, J. M., & Jørgensen, J. S. (2025). Fast Gaussian processes under monotonicity constraints. arXiv preprint  arXiv:2507.06677. [arXiv](https://arxiv.org/abs/2507.06677)
+- Everink, J. M., Zhang, C., Alghamdi, A. M. A., Laumont, R., Riis, N. A. B., & Jørgensen, J. S. (2025). A computational framework and implementation of implicit priors in Bayesian inverse problems. arXiv preprint  arXiv:2509.11781. Submitted to ACM Transactions on Mathematical Software. [arXiv](https://arxiv.org/abs/2509.11781)
+- Rud, M., Dong, Y., Everink, J. M., Järleblad, H., Jørgensen, J. S., Kernel, Q., Madsen, B., Podestà, M., Valentini, A., Salewski, M., and the TCV Team (2025). Bayesian inference of fast-ion distribution functions in TCV using fast-ion D-alpha spectroscopy. Submitted to Plasma Physics and Controlled Fusion.
+- Zhang, C., Everink, J. M., & Jørgensen, J. S. (2025). Fast Gaussian processes under monotonicity constraints. arXiv preprint  arXiv:2507.06677. Submitted to Journal of Computational Physics. [arXiv](https://arxiv.org/abs/2507.06677)
 - Everink, J. M., Tama Amougou, B., & Pereyra M. (2025). Self-supervised conformal prediction for uncertainty quantification in imaging problems, Presented at SSVM2025. [arXiv](https://arxiv.org/abs/2502.05127), [Springer](https://link.springer.com/chapter/10.1007/978-3-031-92366-1_9)
-- Everink, J. M., Dong, Y., & Andersen, M. S. (2024). The geometry and well-posedness of sparse regularized linear regression. arXiv preprint arXiv:2409.03461. [arXiv](https://arxiv.org/abs/2409.03461)
+- Everink, J. M., Dong, Y., & Andersen, M. S. (2024). The geometry and well-posedness of sparse regularized linear regression. arXiv preprint arXiv:2409.03461. Submitted to Inverse Problems. [arXiv](https://arxiv.org/abs/2409.03461)
 - Alghamdi, A. M. A., Carøe, M. S., Everink, J. M., Jørgensen, J. S., Knudsen, K., Nielsen, J. T. K., ... & Zhang, C. (2024). Spatial regularization and level-set methods for experimental electrical impedance tomography with partial data. Applied Mathematics for Modern Challenges, 0-0. [AIMS](https://www.aimsciences.org/article/doi/10.3934/ammc.2024013)
 - Everink, J. M., Dong, Y., & Andersen, M. S. (2023). Sparse Bayesian inference with regularized Gaussian distributions. Inverse Problems, 39(11), 115004. [IOP](https://iopscience.iop.org/article/10.1088/1361-6420/acf9c5)
 - Everink, J. M., Dong, Y., & Andersen, M. S. (2023). Bayesian inference with projected densities. SIAM/ASA Journal on Uncertainty Quantification, 11(3), 1025-1043. [SIAM](https://epubs.siam.org/doi/full/10.1137/22M150695X)
