@@ -59,6 +59,7 @@ Conference & Workshop Attendance:
 <details>
     <small><pre>
     - 2025:
+      - Inverse Days (Finland)
       - Conference Talk: Joint Statistical Meetings (JSM, USA)
       - Conference Talk: SSVM (UK)
     - 2024:
