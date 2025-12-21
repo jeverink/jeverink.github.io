@@ -16,3 +16,9 @@
     display: none;
   }
 }
+
+@media print {
+  .author__urls-wrapper {
+     display: none !important!
+  }
+}
