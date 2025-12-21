@@ -14,8 +14,11 @@
   .ads,
   .page__footer {
     display: none;
-  },
-   .github-follow-button,
+  }
+}
+
+@media print {
+  .github-follow-button,
   .github-button,
   .github-buttons,
   iframe[src*="github.com"] {
