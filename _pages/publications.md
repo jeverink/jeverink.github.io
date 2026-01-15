@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-- Rud, M., Dong, Y., Everink, J. M., Järleblad, H., Jørgensen, J. S., Kernel, Q., Madsen, B., Podestà, M., Valentini, A., Salewski, M., and the TCV Team (2025). ayesian velocity-space tomography with collision- and charge-exchange-physics prior from fast-ion D-alpha measurements at TCV with uncertainty quantification. Accepted for publication in Plasma Physics and Controlled Fusion. [IOP](http://doi.org/10.1088/1361-6587/ae3858)
+- Rud, M., Dong, Y., Everink, J. M., Järleblad, H., Jørgensen, J. S., Kernel, Q., Madsen, B., Podestà, M., Valentini, A., Salewski, M., and the TCV Team (2025). Bayesian velocity-space tomography with collision- and charge-exchange-physics prior from fast-ion D-alpha measurements at TCV with uncertainty quantification. Accepted for publication in Plasma Physics and Controlled Fusion. [IOP](http://doi.org/10.1088/1361-6587/ae3858)
 - Everink, J. M., Zhang, C., Alghamdi, A. M. A., Laumont, R., Riis, N. A. B., & Jørgensen, J. S. (2025). A computational framework and implementation of implicit priors in Bayesian inverse problems. arXiv preprint  arXiv:2509.11781. Submitted to ACM Transactions on Mathematical Software. [arXiv](https://arxiv.org/abs/2509.11781)
 - Zhang, C., Everink, J. M., & Jørgensen, J. S. (2025). Fast Gaussian processes under monotonicity constraints. arXiv preprint  arXiv:2507.06677. Submitted to Journal of Computational Physics. [arXiv](https://arxiv.org/abs/2507.06677)
 - Everink, J. M., Tama Amougou, B., & Pereyra M. (2025). Self-supervised conformal prediction for uncertainty quantification in imaging problems, Presented at SSVM2025. [arXiv](https://arxiv.org/abs/2502.05127), [Springer](https://link.springer.com/chapter/10.1007/978-3-031-92366-1_9)
