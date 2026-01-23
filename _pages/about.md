@@ -43,7 +43,7 @@ Many applied scientists are not familiar with the mathematical and/or computatat
 -->
 
 Examples of recent applications:
-- [Velocity-space tomography in plasma fusion](https://scholar.google.com/citations?view_op=view_citation&hl=fi&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:_FxGoFyzp5QC)
+- [Velocity-space tomography in plasma fusion](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:_FxGoFyzp5QC)
 - [Electrical impedance tomography (EIT) with partial data](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:2osOgNQ5qMEC)
 
 Examples of recent work including code:
