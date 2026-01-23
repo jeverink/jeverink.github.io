@@ -42,11 +42,13 @@ In real-world applications, data is often limited and/or corrupted, whilst the s
 Many applied scientists are not familiar with the mathematical and/or computatational details of these regularization strategies and prior models. Therefore, it is very important to make these tools available to them by means of easy-to-use software. 
 -->
 
-Examples of recent work (all of which come with code):
-- [A computational framework and implementation of implicit priors in Bayesian inverse problems](https://arxiv.org/abs/2509.11781)
+Examples of recent applications:
 - [Velocity-space tomography in plasma fusion](https://scholar.google.com/citations?view_op=view_citation&hl=fi&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:_FxGoFyzp5QC)
-- [Gaussian processes under monotonicity constraints](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:eQOLeE2rZwMC)
 - [Electrical impedance tomography (EIT) with partial data](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:2osOgNQ5qMEC)
+
+Examples of recent work including code:
+- [A computational framework and implementation of implicit priors in Bayesian inverse problems](https://arxiv.org/abs/2509.11781)
+- [Gaussian processes under monotonicity constraints](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:eQOLeE2rZwMC)
 - Contributions to the CUQIpy software package for Computational Uncertainty Quantification for Inverse problems in Python: [<img src="images/imgs/cuqipy.png" width="10%" height="10%">](https://cuqi-dtu.github.io/CUQIpy/).
 
 
