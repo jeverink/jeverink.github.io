@@ -44,7 +44,8 @@ Many applied scientists are not familiar with the mathematical and/or computatat
 
 Examples of recent work (all of which come with code):
 - [A computational framework and implementation of implicit priors in Bayesian inverse problems](https://arxiv.org/abs/2509.11781)
-- [Gaussian Processes under Monotonicity Constraints](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:eQOLeE2rZwMC)
+- [Velocity-space tomography in plasma fusion](https://scholar.google.com/citations?view_op=view_citation&hl=fi&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:_FxGoFyzp5QC)
+- [Gaussian processes under monotonicity constraints](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:eQOLeE2rZwMC)
 - [Electrical impedance tomography (EIT) with partial data](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:2osOgNQ5qMEC)
 - Contributions to the CUQIpy software package for Computational Uncertainty Quantification for Inverse problems in Python: [<img src="images/imgs/cuqipy.png" width="10%" height="10%">](https://cuqi-dtu.github.io/CUQIpy/).
 
@@ -57,5 +58,5 @@ Different regularization strategies and prior models will result in different re
 -->
 
 Examples of recent work:
-- [Self-supervised Conformal prediction](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:zYLM7Y9cAGgC)
+- [Self-supervised conformal prediction](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:zYLM7Y9cAGgC)
 - [Sparsity-promoting implicit priors (PhD thesis)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:Tyk-4Ss8FVUC)
