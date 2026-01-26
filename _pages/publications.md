@@ -8,16 +8,17 @@ redirect_from:
 ---
 
 {% include base_path %}
-- Rud, M., Dong, Y., Everink, J. M., Järleblad, H., Jørgensen, J. S., Kernel, Q., Madsen, B., Podestà, M., Valentini, A., Salewski, M., and the TCV Team (2025). Bayesian velocity-space tomography with collision- and charge-exchange-physics prior from fast-ion D-alpha measurements at TCV with uncertainty quantification. Accepted for publication in Plasma Physics and Controlled Fusion. [IOP](http://doi.org/10.1088/1361-6587/ae3858)
-- Everink, J. M., Zhang, C., Alghamdi, A. M. A., Laumont, R., Riis, N. A. B., & Jørgensen, J. S. (2025). A computational framework and implementation of implicit priors in Bayesian inverse problems. arXiv preprint  arXiv:2509.11781. Submitted to ACM Transactions on Mathematical Software. [arXiv](https://arxiv.org/abs/2509.11781)
-- Zhang, C., Everink, J. M., & Jørgensen, J. S. (2025). Fast Gaussian processes under monotonicity constraints. arXiv preprint  arXiv:2507.06677. Submitted to Journal of Computational Physics. [arXiv](https://arxiv.org/abs/2507.06677)
-- Everink, J. M., Tama Amougou, B., & Pereyra M. (2025). Self-supervised conformal prediction for uncertainty quantification in imaging problems, Presented at SSVM2025. [arXiv](https://arxiv.org/abs/2502.05127), [Springer](https://link.springer.com/chapter/10.1007/978-3-031-92366-1_9)
-- Everink, J. M., Dong, Y., & Andersen, M. S. (2024). The geometry and well-posedness of sparse regularized linear regression. arXiv preprint arXiv:2409.03461. Submitted to Inverse Problems. [arXiv](https://arxiv.org/abs/2409.03461)
-- Alghamdi, A. M. A., Carøe, M. S., Everink, J. M., Jørgensen, J. S., Knudsen, K., Nielsen, J. T. K., ... & Zhang, C. (2024). Spatial regularization and level-set methods for experimental electrical impedance tomography with partial data. Applied Mathematics for Modern Challenges, 0-0. [AIMS](https://www.aimsciences.org/article/doi/10.3934/ammc.2024013)
-- Everink, J. M., Dong, Y., & Andersen, M. S. (2023). Sparse Bayesian inference with regularized Gaussian distributions. Inverse Problems, 39(11), 115004. [IOP](https://iopscience.iop.org/article/10.1088/1361-6420/acf9c5)
-- Everink, J. M., Dong, Y., & Andersen, M. S. (2023). Bayesian inference with projected densities. SIAM/ASA Journal on Uncertainty Quantification, 11(3), 1025-1043. [SIAM](https://epubs.siam.org/doi/full/10.1137/22M150695X)
-- Prasetya, W., Leek, C., Melkonian, O., ten Tusscher, J., van Bergen, J., Everink, J., ... & van Zon, W. (2019, May). Having fun in learning formal specifications. In 2019 IEEE/ACM 41st International Conference on Software Engineering: Software Engineering Education and Training (ICSE-SEET) (pp. 192-196). IEEE. [arXiv](https://arxiv.org/abs/1903.00334), [IEEE](https://ieeexplore.ieee.org/abstract/document/8802100)
-
+|Title|Authors|Journal/Conference/Preprint|Year|Source|
+|-|-|-|-|-|
+|Bayesian velocity-space tomography with collision- and charge-exchange-physics prior from fast-ion D-alpha measurements at TCV with uncertainty quantification|Rud, M. et al.|Plasma Physics and Controlled Fusion|2025|[IOP](http://doi.org/10.1088/1361-6587/ae3858) |
+|A computational framework and implementation of implicit priors in Bayesian inverse problems|Everink, J. M. et al.|arXiv|2025|[arXiv](https://arxiv.org/abs/2509.11781) |
+|Fast Gaussian processes under monotonicity constraints|Zhang, C. et al.|arXiv|2025|[arXiv](https://arxiv.org/abs/2507.06677) |
+|Self-supervised conformal prediction for uncertainty quantification in imaging problems|Everink, J. M. et al.|SSVM 2025|2025|[Springer](https://link.springer.com/chapter/10.1007/978-3-031-92366-1_9) [arXiv](https://arxiv.org/abs/2502.05127) |
+|The geometry and well-posedness of sparse regularized linear regression|Everink, J. M. et al.|arXiv|2024|[arXiv](https://arxiv.org/abs/2409.03461) |
+|Spatial regularization and level-set methods for experimental electrical impedance tomography with partial data|Alghamdi, A. M. A. et al.|Applied Mathematics for Modern Challenges|2024|[AIMS](https://www.aimsciences.org/article/doi/10.3934/ammc.2024013) |
+|Sparse Bayesian inference with regularized Gaussian distributions|Everink, J. M. et al.|Inverse Problems|2023|[IOP](https://iopscience.iop.org/article/10.1088/1361-6420/acf9c5) |
+|Bayesian inference with projected densities|Everink, J. M. et al.|SIAM/ASA Journal on Uncertainty Quantification|2023|[SIAM](https://epubs.siam.org/doi/full/10.1137/22M150695X) |
+|Having fun in learning formal specifications|Prasetya, W. et al.|ICSE-SEET 2019|2019|[arXiv](https://arxiv.org/abs/1903.00334) [IEEE](https://ieeexplore.ieee.org/abstract/document/8802100) |
 
 Theses
 ======
