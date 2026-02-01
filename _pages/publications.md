@@ -22,6 +22,6 @@ redirect_from:
 
 Theses
 ======
-- Phd: Uncertainty Quantification for Inverse Problems with Sparsity-Promoting Implicit Priors. [thesis](https://orbit.dtu.dk/files/390213132/phd_thesis_JMEV.pdf)
+- PhD: Uncertainty Quantification for Inverse Problems with Sparsity-Promoting Implicit Priors. [thesis](https://orbit.dtu.dk/files/390213132/phd_thesis_JMEV.pdf)
 - MSc. Mathematical Sciences: One-bit Compressed Sensing with Generative Models. [thesis](https://studenttheses.uu.nl/bitstream/handle/20.500.12932/41296/Master_thesis_Jasper_Everink.pdf)
 - BSc. Mathematics: Numerically Solving The Wave Equation Using The Finite Element Method. [thesis](https://studenttheses.uu.nl/bitstream/handle/20.500.12932/29861/thesis.pdf)
