@@ -54,6 +54,7 @@ function computeRadon(){
     if((grid.flat().join('') === answer) && !Solved){
         Guesses++;
         Solved = true;
+        activeCell.active = false;
         flag = true;
     }
 

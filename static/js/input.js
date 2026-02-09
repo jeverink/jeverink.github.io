@@ -30,6 +30,7 @@ const isTouchDevice = 'ontouchstart' in window || navigator.maxTouchPoints > 0;
    Cell Selection (click/tap)
 =============================== */
 function selectCellFromEvent(e) {
+  if(Solved){return;};
   e.preventDefault();
   const rect = canvas.getBoundingClientRect();
   const clientX = e.clientX ?? e.touches?.[0]?.clientX;
@@ -90,7 +91,7 @@ hiddenInput.addEventListener('keydown', e => {
    Desktop Keyboard
 =============================== */
 window.addEventListener('keydown', e => {
-  if (!activeCell.active) return;
+  if (!activeCell.active || Solved) return;
   if (document.activeElement === hiddenInput) return; // Skip if typing in mobile input
 
   if (e.key === 'Backspace') {
