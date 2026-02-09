@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<title>CTguesser</title>
+<link rel="stylesheet" href="css/intro_style.css">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<!-- Introduction Overlay -->
+<div id="introOverlay">
+  <div id="introContent">
+    <h1>CTguesser</h1>
+    <p>
+      Can you guess a word based on its sinogram?
+    </p>
+
+    </br>
+    <h2>Exploration</h2>
+    <p>No guessing, just explore the sinograms.</p>
+    <div class="buttonGrid3">
+      <button id="startExplore1Btn" class="btn">1 letter</button>
+      <button id="startExplore4Btn" class="btn">4 letters</button>
+      <button id="startExplore9Btn" class="btn">9 letters</button>
+    </div>
+
+    <h2>Full-angle</h2>
+    <p>See all angles with every guess.</p>
+    <div class="buttonGrid2">
+      <button id="startFull4Btn" class="btn">4 letters</button>
+      <button id="startFull9Btn" class="btn">9 letters</button>
+    </div>
+    <!--
+    <h2>Limited-angle</h2>
+    <p>See all angles with every guess.</p>
+    <div class="buttonGrid2">
+      <button id="startLimited4Btn" class="btn">4 letters</button>
+      <button id="startLimited9Btn" class="btn">9 letters</button>
+    </div>
+     -->
+    <!-- Footer -->
+    <div id="introFooter">
+      CTguesser - Made by: Jasper M. Everink
+    </div>
+  </div>
+</div>
+
+<div id="backHeader">
+  <button id="backBtn" class="btn btn-secondary">Back</button>
+  <span id="backText"></span>
+</div>
+
+
+
+<div id="controls">
+  
+  <input id="hiddenInput" type="text" maxlength="1">
+
+  <canvas id="gridCanvas"></canvas>
+
+  <!-- Slider below grid -->
+  <div id="sliderWrapper">
+    <div id="sliderContainer">
+      <input type="range" id="angleSlider" min="-90" max="90" step="5" value="0">
+
+      <div id="angleRow">
+        <span id="angleLabel">Angle: 0°</span>
+        <button id="computeBtn" onclick="computeRadon()">Compute Radon</button>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+<script src="js/state.js"></script>
+<script src="js/drawing.js"></script>
+<script src="js/radon.js"></script>
+<script src="js/input.js"></script>
+<script src="js/main.js"></script>
+
+</body>
+</html>
