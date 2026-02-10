@@ -60,9 +60,9 @@ function computeRadon(){
 
     if(!Solved){
         Guesses++;
-        topText.innerHTML = "Guesses: " + Guesses;
+        topText.innerHTML = Guesses + " Guesses";
     } else {
-        topText.innerHTML = "Final guesses: " + Guesses;
+        topText.innerHTML = "Solved in " + Guesses + " guesses!";
     }
   }
   if (!Solved || flag) {

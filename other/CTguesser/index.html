@@ -14,10 +14,15 @@
   <div id="introContent">
     <h1>CTguesser</h1>
     <p>
-      Can you guess a word based on its sinogram?
+      Can you guess a word based on its projections?
     </p>
 
     </br>
+    <button id="openTutorialBtn" class="btn btn-secondary">
+      Tutorial
+    </button>
+
+
     <h2>Exploration</h2>
     <p>No guessing, just explore the sinograms.</p>
     <div class="buttonGrid3">
@@ -42,7 +47,7 @@
      -->
     <!-- Footer -->
     <div id="introFooter">
-      CTguesser - v0.1 - Made by Jasper M. Everink
+      CTguesser - v0.2 - Made by Jasper M. Everink
     </div>
   </div>
 </div>
@@ -52,6 +57,29 @@
   <span id="backText"></span>
 </div>
 
+<!-- Tutorial Overlay -->
+<div id="tutorialOverlay" class="hidden">
+  <div id="tutorialContent">
+
+    <h2 id="tutorialTitle"></h2>
+    <div id="tutorialImageWrapper" class="hidden">
+      <img id="tutorialImage" alt="">
+    </div>
+
+    <p id="tutorialText"></p>
+
+    <div id="tutorialNav">
+      <button id="tutorialPrevBtn" class="btn">Back</button>
+      <button id="tutorialNextBtn" class="btn">Next</button>
+    </div>
+
+    <div id="tutorialFooter">
+      <span id="tutorialProgress"></span>
+      <button id="closeTutorialBtn" class="btn">Close</button>
+    </div>
+
+  </div>
+</div>
 
 
 <div id="controls">
@@ -80,6 +108,7 @@
 <script src="js/radon.js"></script>
 <script src="js/input.js"></script>
 <script src="js/main.js"></script>
+<script src="js/tutorial.js"></script>
 
 </body>
 </html>

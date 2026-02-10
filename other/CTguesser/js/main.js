@@ -27,12 +27,9 @@ function resetGrid() {
     topText.innerHTML = "Exploration";
     computeBtn.innerHTML = "Compute sinogram";
   } else {
-    topText.innerHTML = "Guesses: 0";
+    topText.innerHTML = "0 Guesses";
     computeBtn.innerHTML = "Guess";
     answer = pickRandomWord();
-
-    // FOR DEBUGGING PURPOSES ONLY!
-    console.log(answer)
 
     wordGrid = Array.from({ length: N }, (_, row) =>
     Array.from({ length: N }, (_, col) =>

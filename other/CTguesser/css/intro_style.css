@@ -100,3 +100,57 @@
   font-size: 16px;
   padding: 8px 16px;
 }
+
+
+.hidden {
+  display: none !important;
+}
+
+#tutorialOverlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(17, 17, 17, 0.95);
+  z-index: 2000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#tutorialContent {
+  max-width: 600px;
+  padding: 2rem;
+  background: #111;
+  border-radius: 12px;
+  text-align: center;
+}
+
+#tutorialNav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+  gap: 1rem;
+}
+
+#tutorialFooter {
+  margin-top: 1.5rem;
+  font-size: 0.9rem;
+  opacity: 0.7;
+}
+
+#tutorialNav button {
+  flex: 1;
+}
+
+#tutorialFooter button {
+  width: 100%;
+  margin-top: 1rem;
+}
+
+#tutorialImageWrapper {
+  margin: 1.5rem 0;
+}
+
+#tutorialImage {
+  max-width: 100%;
+  border-radius: 10px;
+}

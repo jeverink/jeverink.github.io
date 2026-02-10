@@ -136,7 +136,7 @@ function drawProjectionAtAngle(theta){
 
   /* ===== Zero axis ===== */
   ctx.strokeStyle = 'rgba(255,255,255,0.35)';
-  ctx.lineWidth = 1;
+  ctx.lineWidth = 2;
   ctx.beginPath();
   ctx.moveTo(offsetX, 0);
   ctx.lineTo(offsetX + length, 0);
