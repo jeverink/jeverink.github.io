@@ -19,9 +19,8 @@
 
     </br>
     <button id="openTutorialBtn" class="btn btn-secondary">
-      Tutorial
+      Instructions
     </button>
-
 
     <h2>Exploration</h2>
     <p>No guessing, just explore the sinograms.</p>
@@ -47,14 +46,10 @@
      -->
     <!-- Footer -->
     <div id="introFooter">
-      CTguesser - v0.2 - Made by Jasper M. Everink
+      CTguesser - v0.2 - Made by Jasper M. Everink <br>
+      No support for light mode yet
     </div>
   </div>
-</div>
-
-<div id="backHeader">
-  <button id="backBtn" class="btn btn-secondary">Back</button>
-  <span id="backText"></span>
 </div>
 
 <!-- Tutorial Overlay -->
@@ -82,20 +77,24 @@
 </div>
 
 
+<!-- Main game -->
 <div id="controls">
-  
+  <div id="backHeader">
+    <button id="backBtn" class="btn">Back</button>
+    <span id="backText"></span>
+  </div>
+
   <input id="hiddenInput" type="text" maxlength="1">
 
   <canvas id="gridCanvas"></canvas>
 
-  <!-- Slider below grid -->
   <div id="sliderWrapper">
     <div id="sliderContainer">
       <input type="range" id="angleSlider" min="-90" max="90" step="5" value="0">
 
       <div id="angleRow">
         <span id="angleLabel">Angle: 0°</span>
-        <button id="computeBtn" onclick="computeRadon()">Compute Radon</button>
+        <button id="computeBtn" class="btn" onclick="computeRadon()">Compute</button>
       </div>
     </div>
   </div>

@@ -1,4 +1,3 @@
-
 /* ===============================
    Grid setup
 =============================== */
@@ -25,7 +24,7 @@ function resetGrid() {
   
   if (Mode == "Explore"){
     topText.innerHTML = "Exploration";
-    computeBtn.innerHTML = "Compute sinogram";
+    computeBtn.innerHTML = "Compute";
   } else {
     topText.innerHTML = "0 Guesses";
     computeBtn.innerHTML = "Guess";

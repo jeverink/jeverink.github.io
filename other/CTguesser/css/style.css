@@ -1,94 +1,80 @@
 
-  body {
-    margin: 0;
-    padding: 12px;
-    font-family: sans-serif;
-    background: #111;
-    color: #eee;
-    touch-action: manipulation;
-  }
-  canvas {
-    border: 1px solid #555;
-    display: block;
-    margin: 12px auto;
-    image-rendering: pixelated;
-    touch-action: none;
-  }
-  #controls {
-    text-align: center;
-  }
-  input[type=range] {
-    width: 75%;
-  }
+body {
+  margin: 0;
+  padding: 12px;
+  font-family: sans-serif;
+  background: #111;
+  color: #eee;
+  touch-action: manipulation;
+}
+
+canvas {
+  border: 1px solid #555;
+  display: block;
+  margin: 12px auto;
+  image-rendering: pixelated;
+  touch-action: none;
+}
+
+#controls {
+  text-align: center;
+}
+
+input[type=range] {
+  width: 75%;
+}
+
 #hiddenInput {
   position: absolute;
-  opacity: 0;       /* completely transparent */
+  opacity: 0; 
   width: 1px;
   height: 1px;
-  font-size: 16px;  /* ensures mobile keyboard shows */
+  font-size: 16px;
   border: none;
   background: transparent;
   color: transparent;
-  z-index: 10;      /* above canvas if needed */
+  z-index: 10;
 }
 
-
-  /* Updated button styling */
-  #computeBtn {
-    background: linear-gradient(135deg, #4caf50, #81c784);
-    border: none;
-    color: #fff;
-    border-radius: 8px; 
-    cursor: pointer;
-    transition: all 0.2s ease;
-    touch-action: none; /* Prevent scrolling while dragging */
-  }
-
-  #computeBtn:hover {
-    background: linear-gradient(135deg, #43a047, #66bb6a);
-    transform: translateY(-2px);
-    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
-  }
+#computeBtn {
+  padding: 8px 16px;
+}
   
-/* Prevent horizontal scroll */
 html, body {
   overflow-x: hidden;
   touch-action: manipulation;
 }
 
-/* Wrapper for centering */
 #sliderWrapper {
   width: 100%;
   padding: 0 12px;
   box-sizing: border-box;
   display: flex;
   justify-content: center;
-  margin-bottom: 16px; /* <-- added space below slider */
+  margin-bottom: 16px;
 }
 
-/* Slider + label container */
 #sliderContainer {
   display: flex;
   align-items: center;
-  flex-direction: column;   /* ← stack vertically */
+  flex-direction: column;
   gap: 12px;
   width: 100%;
   max-width: 500px;
   box-sizing: border-box;
 }
 
-/* Make slider flexible, label fixed */
 #angleSlider {
   -webkit-appearance: none;
-  width: 100%;              /* ← full width */
-  flex: 1; /* take all remaining space */
+  width: 100%;
+  flex: 1;
   height: 8px;
   background: #444;
   border-radius: 4px;
   outline: none;
   transition: background 0.2s;
-  min-width: 0; /* prevents flex overflow on small screens */
-  touch-action: none; /* Prevent scrolling while dragging */
+  min-width: 0;
+  touch-action: none;
 }
 
 #angleSlider:hover {
@@ -125,7 +111,6 @@ html, body {
   transform: scale(1.1);
 }
 
-/* Row below slider: label + button */
 #angleRow {
   display: flex;
   align-items: center;
@@ -133,16 +118,28 @@ html, body {
   gap: 12px;
 }
 
-/* Label */
+
 #angleLabel {
-  min-width: 90px;          /* enough for "Angle: -90°" */
-  font-size: 14px;
+  min-width: 90px;
+  font-size: 1.25em;
   color: #eee;
   white-space: nowrap;
 }
 
-/* Compute button (slightly smaller for balance) */
-#computeBtn {
-  font-size: 14px;
+#backHeader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+#backText {
+  color: #eee;
+  font-size: 1.25em;
+}
+
+#backBtn {
+  font-size: 16px;
   padding: 8px 16px;
 }
