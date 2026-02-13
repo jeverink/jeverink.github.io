@@ -10,4 +10,7 @@ main:
 
   - title: "CV"
     url: /cv/
+
+  - title: "CTguesser"
+    url: /other/CTguesser/
     
