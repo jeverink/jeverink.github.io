@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 |Title|Authors|Journal/Conference/Preprint|Year|Source|
 |-|-|-|-|-|
+|Efficient monotonic Gaussian processes via Randomize-then-Optimize|Zhang, C. et al.|Journal of Computational Physics|2026|[Elsevier](https://doi.org/10.1016/j.jcp.2026.114787) |
 |Bayesian velocity-space tomography with collision- and charge-exchange-physics prior from fast-ion D-alpha measurements at TCV with uncertainty quantification|Rud, M. et al.|Plasma Physics and Controlled Fusion|2026|[IOP](http://doi.org/10.1088/1361-6587/ae3858) |
 |A computational framework and implementation of implicit priors in Bayesian inverse problems|Everink, J. M. et al.|arXiv|2025|[arXiv](https://arxiv.org/abs/2509.11781) |
-|Fast Gaussian processes under monotonicity constraints|Zhang, C. et al.|arXiv|2025|[arXiv](https://arxiv.org/abs/2507.06677) |
 |Self-supervised conformal prediction for uncertainty quantification in imaging problems|Everink, J. M. et al.|SSVM 2025|2025|[Springer](https://link.springer.com/chapter/10.1007/978-3-031-92366-1_9) [arXiv](https://arxiv.org/abs/2502.05127) |
 |The geometry and well-posedness of sparse regularized linear regression|Everink, J. M. et al.|arXiv|2024|[arXiv](https://arxiv.org/abs/2409.03461) |
 |Spatial regularization and level-set methods for experimental electrical impedance tomography with partial data|Alghamdi, A. M. A. et al.|Applied Mathematics for Modern Challenges|2024|[AIMS](https://www.aimsciences.org/article/doi/10.3934/ammc.2024013) |
