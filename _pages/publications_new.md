@@ -118,7 +118,7 @@ redirect_from:
 }
 
 .pub-table td {
-  padding: 10px 6px;
+  padding: 4px 6px;
   vertical-align: top;
 }
 
@@ -275,7 +275,6 @@ redirect_from:
   <input type="checkbox" id="tag-other" value="other">
   <label for="tag-other" class="tag-btn">Other</label>
 </div>
-
 
 <h2 class="pub-heading">Publications</h2>
 <div class="table-wrapper">
