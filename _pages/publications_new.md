@@ -380,31 +380,6 @@ redirect_from:
   </table>
 </div>
 
-<!--
-<h2 class="pub-heading">Book Chapters</h2>
-  <table id="paperTable" class="pub-table">
-    <thead>
-      <tr>
-        <th>Book</th>
-        <th class="year-col">Year</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr data-tags="software" data-type="">
-        <td>
-          <div class="pub-title">Uncertainty Quantification in Inverse Problems with CUQIpy</div>
-          <div class="pub-venue">
-            Training material for the <a href="https://github.com/CUQI-DTU/CUQIpy">CUQIpy</a> Python library. <br>
-          </div>
-          <div class="pub-source">Available: <a href="https://cuqi-dtu.github.io/CUQI-Book/">Online</a></div>
-        </td>
-        <td class="year-col">2026</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
--->
-
 <h2 class="pub-heading">Theses</h2>
   <table id="paperTable" class="pub-table">
     <thead>
@@ -443,7 +418,6 @@ redirect_from:
 
     </tbody>
   </table>
-</div>
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
