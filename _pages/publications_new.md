@@ -375,35 +375,31 @@ redirect_from:
     <thead>
       <tr>
         <th>Thesis</th>
-        <th class="year-col">Year</th>
       </tr>
     </thead>
     <tbody>
       <tr data-tags="models uq software" data-type="">
         <td>
           <div class="pub-title">PhD: Uncertainty Quantification for Inverse Problems with Sparsity-Promoting Implicit Priors</div>
-          <div class="pub-venue">Technical University of Denmark</div>
+          <div class="pub-venue">Technical University of Denmark - 2025</div>
           <div class="pub-source">Thesis: <a href="https://orbit.dtu.dk/files/390213132/phd_thesis_JMEV.pdf">DTU Orbit</a>, Code: <a href="https://github.com/CUQI-DTU/Thesis-JME">Github</a></div>
         </td>
-        <td class="year-col">2025</td>
       </tr>
 
       <tr data-tags="models" data-type="">
         <td>
           <div class="pub-title">MSc in Mathematical Sciences: One-bit Compressed Sensing with Generative Models</div>
-          <div class="pub-venue">Utrecht University</div>
+          <div class="pub-venue">Utrecht University - 2021</div>
           <div class="pub-source">Thesis: <a href="https://studenttheses.uu.nl/bitstream/handle/20.500.12932/41296/Master_thesis_Jasper_Everink.pdf">UU student theses</a>, Code: <a href="https://github.com/jeverink/MastersThesis">Github</a></div>
         </td>
-        <td class="year-col">2021</td>
       </tr>
 
         <tr data-tags="other" data-type="">
         <td>
           <div class="pub-title">BSc in Mathematics: Numerically Solving The Wave Equation Using The Finite Element Method</div>
-          <div class="pub-venue">Utrecht University</div>
+          <div class="pub-venue">Utrecht University - 2018</div>
           <div class="pub-source">Thesis: <a href="https://studenttheses.uu.nl/bitstream/handle/20.500.12932/29861/thesis.pdf">UU student theses</a>, Code: <a href="https://github.com/jeverink/BachelorsThesis">Github</a></div>
         </td>
-        <td class="year-col">2018</td>
       </tr>
 
     </tbody>
