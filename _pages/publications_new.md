@@ -276,13 +276,13 @@ redirect_from:
   <label for="tag-other" class="tag-btn">Other</label>
 </div>
 
+
 <h2 class="pub-heading">Publications</h2>
 <div class="table-wrapper">
   <table id="paperTable" class="pub-table">
     <thead>
       <tr>
         <th>Publication</th>
-        <th class="year-col">Year</th>
       </tr>
     </thead>
     <tbody>
@@ -290,90 +290,81 @@ redirect_from:
         <td>
           <div class="pub-title">Efficient monotonic Gaussian processes via Randomize-then-Optimize</div>
           <div class="pub-authors">Zhang, C., <i>Everink, J. M.</i> and Jørgensen, J.S.</div>
-          <div class="pub-venue">Journal of Computational Physics (journal)</div>
+          <div class="pub-venue">Journal of Computational Physics (journal) - 2026</div>
           <div class="pub-source">Paper: <a href="https://doi.org/10.1016/j.jcp.2026.114787">Elsevier</a>, Code: <a href="https://doi.org/10.5281/zenodo.15807484">Zenodo</a></div>
         </td>
-        <td class="year-col">2026</td>
       </tr>
 
       <tr data-tags="application uq" data-type="journal">
         <td>
           <div class="pub-title">Bayesian velocity-space tomography with collision- and charge-exchange-physics prior from fast-ion D-alpha measurements at TCV with uncertainty quantification</div>
           <div class="pub-authors">Rud, M. et al.</div>
-          <div class="pub-venue">Plasma Physics and Controlled Fusion (journal)</div>
+          <div class="pub-venue">Plasma Physics and Controlled Fusion (journal) - 2026</div>
           <div class="pub-source">Paper: <a href="http://doi.org/10.1088/1361-6587/ae3858">IOP</a></div>
         </td>
-        <td class="year-col">2026</td>
       </tr>
 
       <tr data-tags="models uq software" data-type="preprint">
         <td>
           <div class="pub-title">A computational framework and implementation of implicit priors in Bayesian inverse problems</div>
           <div class="pub-authors"><i>Everink, J. M.</i>, Zhang, C., Alghamdi, A. M. A., Laumont, R., Riis, N.A.B. and Jørgensen, J.S.</div>
-          <div class="pub-venue">arXiv (preprint)</div>
+          <div class="pub-venue">arXiv (preprint) - 2025</div>
           <div class="pub-source">Paper: <a href="https://arxiv.org/abs/2509.11781">arXiv</a>, Code: <a href="https://doi.org/10.5281/zenodo.17115255">Zenodo</a></div>
         </td>
-        <td class="year-col">2025</td>
       </tr>
             
       <tr data-tags="uq" data-type="conference">
         <td>
           <div class="pub-title">Self-supervised conformal prediction for uncertainty quantification in imaging problems</div>
           <div class="pub-authors"><i>Everink, J. M.</i>, Amougou, B.T. and Pereyra, M.</div>
-          <div class="pub-venue">SSVM 2025 (conference)</div>
+          <div class="pub-venue">SSVM 2025 (conference) - 2025</div>
           <div class="pub-source">Paper: <a href="https://link.springer.com/chapter/10.1007/978-3-031-92366-1_9">Springer</a>,  <a href="https://arxiv.org/abs/2502.05127">arXiv</a></div>
         </td>
-        <td class="year-col">2025</td>
       </tr>
 
       <tr data-tags="models" data-type="preprint">
         <td>
           <div class="pub-title">The geometry and well-posedness of sparse regularized linear regression</div>
           <div class="pub-authors"><i>Everink, J. M.</i>, Dong, Y. and Andersen, M.S.</div>
-          <div class="pub-venue">arXiv (preprint)</div>
+          <div class="pub-venue">arXiv (preprint) - 2024</div>
           <div class="pub-source">Paper: <a href="https://arxiv.org/abs/2409.03461">arXiv</a></div>
         </td>
-        <td class="year-col">2024</td>
       </tr>
 
       <tr data-tags="application models" data-type="journal">
         <td>
           <div class="pub-title">Spatial regularization and level-set methods for experimental electrical impedance tomography with partial data</div>
           <div class="pub-authors">Alghamdi, A. M. A. et al.</div>
-          <div class="pub-venue">Applied Mathematics for Modern Challenges (journal)</div>
+          <div class="pub-venue">Applied Mathematics for Modern Challenges (journal) - 2024</div>
           <div class="pub-source">Paper: <a href="https://www.aimsciences.org/article/doi/10.3934/ammc.2024013">AIMS</a></div>
         </td>
-        <td class="year-col">2024</td>
       </tr>
 
       <tr data-tags="models uq" data-type="journal">
         <td>
           <div class="pub-title">Sparse Bayesian inference with regularized Gaussian distributions</div>
           <div class="pub-authors"><i>Everink, J. M.</i>, Dong, Y. and Andersen, M.S.</div>
-          <div class="pub-venue">Inverse Problems (journal)</div>
+          <div class="pub-venue">Inverse Problems (journal) - 2023</div>
           <div class="pub-source">Paper: <a href="https://iopscience.iop.org/article/10.1088/1361-6420/acf9c5">IOP</a></div>
         </td>
-        <td class="year-col">2023</td>
       </tr>
 
       <tr data-tags="models uq" data-type="journal">
         <td>
           <div class="pub-title">Bayesian inference with projected densities</div>
           <div class="pub-authors"><i>Everink, J. M.</i>, Dong, Y. and Andersen, M.S.</div>
-          <div class="pub-venue">SIAM/ASA Journal on Uncertainty Quantification (journal)</div>
+          <div class="pub-venue">SIAM/ASA Journal on Uncertainty Quantification (journal) - 2023</div>
           <div class="pub-source">Paper: <a href="https://epubs.siam.org/doi/full/10.1137/22M150695X">SIAM</a>, <a href="https://arxiv.org/abs/2209.12481">arXiv</a></div>
         </td>
-        <td class="year-col">2023</td>
       </tr>
 
       <tr data-tags="software other" data-type="conference">
         <td>
           <div class="pub-title">Having fun in learning formal specifications</div>
           <div class="pub-authors">Prasetya, W. et al.</div>
-          <div class="pub-venue">ICSE-SEET 2019 (conference)</div>
+          <div class="pub-venue">ICSE-SEET 2019 (conference) - 2019</div>
           <div class="pub-source">Paper: <a href="https://ieeexplore.ieee.org/abstract/document/8802100">IEEE</a>, <a href="https://arxiv.org/abs/1903.00334">arXiv</a></div>
         </td>
-        <td class="year-col">2019</td>
       </tr>
 
     </tbody>
