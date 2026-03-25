@@ -343,15 +343,13 @@ redirect_from:
 <div class="table-wrapper">
   <table id="paperTable" class="pub-table">
     <tbody>
-
       <tr>
         <td>
           <div class="pub-title">Co-teacher</div>
           <div class="pub-authors">
-            Introduction to Uncertainty Quantification for Inverse Problems (1.5 days, PhD level course, Summer 2024)
+            Introduction to Uncertainty Quantification for Inverse Problems (1.5 days, PhD level course, Summer 2024)</div>
         </td>
       </tr>
-
       <tr>
         <td>
           <div class="pub-title">Substitute teacher</div>
@@ -360,14 +358,12 @@ redirect_from:
             Optimization and Data Fitting (Fall 2024)</div>
         </td>
       </tr>
-
       <tr>
         <td>
           <div class="pub-title">Course work</div>
           <div class="pub-authors">DTU Teaching Lab (2.5 ECTS, Summer 2022)</div>
         </td>
       </tr>
-
       <tr>
         <td>
           <div class="pub-title">Teaching assistance (TA) during PhD at the Technical University of Denmark</div>
@@ -383,7 +379,6 @@ redirect_from:
           </div>
         </td>
       </tr>
-
     </tbody>
   </table>
 </div>
@@ -392,7 +387,6 @@ redirect_from:
 <div class="table-wrapper">
   <table id="paperTable" class="pub-table">
     <tbody>
-
       <tr>
         <td class="year-col">2025</td>
         <td>
@@ -403,7 +397,6 @@ redirect_from:
           </div>
         </td>
       </tr>
-
       <tr>
         <td class="year-col">2024</td>
         <td>
@@ -414,7 +407,6 @@ redirect_from:
           </div>
         </td>
       </tr>
-
         <tr>
         <td class="year-col">2023</td>
         <td>
@@ -426,7 +418,6 @@ redirect_from:
           </div>
         </td>
       </tr>
-
         <tr>
         <td class="year-col">2022</td>
         <td>
@@ -436,7 +427,6 @@ redirect_from:
             Conference Talk: SIAM Conference on Imaging Science (IS22, virtual)</div>
         </td>
       </tr>
-
     </tbody>
   </table>
 </div>
