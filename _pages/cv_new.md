@@ -153,6 +153,16 @@ redirect_from:
   font-size: 0.65em;
 }
 
+.pub-venue a {
+  color: inherit;          /* use same color as surrounding text */
+  text-decoration: underline;
+}
+
+.pub-venue a:hover {
+  color: inherit;          /* prevent hover color change */
+  text-decoration: underline;
+}
+
 .pub-source a {
   color: inherit;          /* use same color as surrounding text */
   text-decoration: underline;
