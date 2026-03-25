@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications_new/
+title: "CV"
+permalink: /cv_new/
 author_profile: true
 redirect_from:
   - /resume_new
