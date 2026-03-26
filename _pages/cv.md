@@ -185,6 +185,7 @@ redirect_from:
   width: 80%;
   height: auto;
   display: block;
+  margin: 0 auto;
 }
 
 @media (max-width: 700px) {
