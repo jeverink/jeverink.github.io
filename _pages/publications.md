@@ -293,7 +293,6 @@ redirect_from:
           <div class="pub-source">Paper: <a href="https://doi.org/10.1016/j.jcp.2026.114787">Elsevier</a>, Code: <a href="https://doi.org/10.5281/zenodo.15807484">Zenodo</a></div>
         </td>
       </tr>
-
       <tr data-tags="application uq" data-type="journal">
         <td>
           <div class="pub-title">Bayesian velocity-space tomography with collision- and charge-exchange-physics prior from fast-ion D-alpha measurements at TCV with uncertainty quantification</div>
@@ -302,7 +301,6 @@ redirect_from:
           <div class="pub-source">Paper: <a href="http://doi.org/10.1088/1361-6587/ae3858">IOP</a></div>
         </td>
       </tr>
-
       <tr data-tags="models uq software" data-type="preprint">
         <td>
           <div class="pub-title">A computational framework and implementation of implicit priors in Bayesian inverse problems</div>
@@ -311,7 +309,6 @@ redirect_from:
           <div class="pub-source">Paper: <a href="https://arxiv.org/abs/2509.11781">arXiv</a>, Code: <a href="https://doi.org/10.5281/zenodo.17115255">Zenodo</a></div>
         </td>
       </tr>
-            
       <tr data-tags="uq" data-type="conference">
         <td>
           <div class="pub-title">Self-supervised conformal prediction for uncertainty quantification in imaging problems</div>
@@ -320,7 +317,6 @@ redirect_from:
           <div class="pub-source">Paper: <a href="https://link.springer.com/chapter/10.1007/978-3-031-92366-1_9">Springer</a>,  <a href="https://arxiv.org/abs/2502.05127">arXiv</a></div>
         </td>
       </tr>
-
       <tr data-tags="models" data-type="preprint">
         <td>
           <div class="pub-title">The geometry and well-posedness of sparse regularized linear regression</div>
@@ -329,7 +325,6 @@ redirect_from:
           <div class="pub-source">Paper: <a href="https://arxiv.org/abs/2409.03461">arXiv</a></div>
         </td>
       </tr>
-
       <tr data-tags="application models" data-type="journal">
         <td>
           <div class="pub-title">Spatial regularization and level-set methods for experimental electrical impedance tomography with partial data</div>
@@ -338,7 +333,6 @@ redirect_from:
           <div class="pub-source">Paper: <a href="https://www.aimsciences.org/article/doi/10.3934/ammc.2024013">AIMS</a></div>
         </td>
       </tr>
-
       <tr data-tags="models uq" data-type="journal">
         <td>
           <div class="pub-title">Sparse Bayesian inference with regularized Gaussian distributions</div>
@@ -347,16 +341,14 @@ redirect_from:
           <div class="pub-source">Paper: <a href="https://iopscience.iop.org/article/10.1088/1361-6420/acf9c5">IOP</a></div>
         </td>
       </tr>
-
       <tr data-tags="models uq" data-type="journal">
         <td>
           <div class="pub-title">Bayesian inference with projected densities</div>
           <div class="pub-authors"><i>Everink, J. M.</i>, Dong, Y. and Andersen, M.S.</div>
           <div class="pub-venue">SIAM/ASA Journal on Uncertainty Quantification (journal) - 2023</div>
-          <div class="pub-source">Paper: <a href="https://epubs.siam.org/doi/full/10.1137/22M150695X">SIAM</a>, <a href="https://arxiv.org/abs/2209.12481">arXiv</a></div>
-        </td>
+          <div class="pub-source">Paper: <a href="https://orbit.dtu.dk/en/publications/bayesian-inference-with-projected-densities/">DTU Orbit</a>, <a href="https://epubs.siam.org/doi/full/10.1137/22M150695X">SIAM</a>, <a href="https://arxiv.org/abs/2209.12481">arXiv</a></div>
+        </td >
       </tr>
-
       <tr data-tags="software other" data-type="conference">
         <td>
           <div class="pub-title">Having fun in learning formal specifications</div>
