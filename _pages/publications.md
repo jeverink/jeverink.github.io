@@ -357,7 +357,6 @@ redirect_from:
           <div class="pub-source">Paper: <a href="https://ieeexplore.ieee.org/abstract/document/8802100">IEEE</a>, <a href="https://arxiv.org/abs/1903.00334">arXiv</a></div>
         </td>
       </tr>
-
     </tbody>
   </table>
 </div>
@@ -377,7 +376,6 @@ redirect_from:
           <div class="pub-source">Thesis: <a href="https://orbit.dtu.dk/files/390213132/phd_thesis_JMEV.pdf">DTU Orbit</a>, Code: <a href="https://github.com/CUQI-DTU/Thesis-JME">Github</a></div>
         </td>
       </tr>
-
       <tr data-tags="models" data-type="">
         <td>
           <div class="pub-title">MSc in Mathematical Sciences: One-bit Compressed Sensing with Generative Models</div>
@@ -385,7 +383,6 @@ redirect_from:
           <div class="pub-source">Thesis: <a href="https://studenttheses.uu.nl/bitstream/handle/20.500.12932/41296/Master_thesis_Jasper_Everink.pdf">UU student theses</a>, Code: <a href="https://github.com/jeverink/MastersThesis">Github</a></div>
         </td>
       </tr>
-
         <tr data-tags="other" data-type="">
         <td>
           <div class="pub-title">BSc in Mathematics: Numerically Solving The Wave Equation Using The Finite Element Method</div>
@@ -393,6 +390,5 @@ redirect_from:
           <div class="pub-source">Thesis: <a href="https://studenttheses.uu.nl/bitstream/handle/20.500.12932/29861/thesis.pdf">UU student theses</a>, Code: <a href="https://github.com/jeverink/BachelorsThesis">Github</a></div>
         </td>
       </tr>
-
     </tbody>
   </table>

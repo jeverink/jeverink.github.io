@@ -181,6 +181,12 @@ redirect_from:
   color: #666;
 }
 
+.year-col img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 @media (max-width: 700px) {
 
   /* Remove table structure */
@@ -260,25 +266,24 @@ redirect_from:
 <div class="table-wrapper">
   <table id="paperTable" class="pub-table">
     <tbody>
-
       <tr>
-        <td class="year-col">Oct 2025 - Currently</td>
+        <td class="year-col">Oct 2025 - Currently <br> 
+        <img src="/images/imgs/uef.png"></td>
         <td>
           <div class="pub-title">Postdoctoral Researcher</div>
           <div class="pub-authors">Institute: University of Eastern Finland, Kuopio, Finland</div>
           <div class="pub-venue">Research project: Inverse problems in functional and quantitative MRI</div>
         </td>
       </tr>
-
       <tr>
-        <td class="year-col">Oct 2024 - Sep 2025</td>
+        <td class="year-col">Oct 2024 - Sep 2025 <br> 
+        <img src="/images/imgs/dtu.png"></td>
         <td>
           <div class="pub-title">Postdoctoral Researcher</div>
           <div class="pub-authors">Institute: Technical University of Denmark, Kgs. Lyngby, Denmark</div>
           <div class="pub-venue">Research project: <a href="https://sites.dtu.dk/cuqi">CUQI, Computational Uncertainty Quantification for Inverse Problems</a></div>
         </td>
       </tr>
-
     </tbody>
   </table>
 </div>
@@ -287,9 +292,9 @@ redirect_from:
 <div class="table-wrapper">
   <table id="paperTable" class="pub-table">
     <tbody>
-
       <tr>
-        <td class="year-col">Oct 2021 - Sep 2024</td>
+        <td class="year-col">Oct 2021 - Sep 2024 <br> 
+        <img src="/images/imgs/dtu.png"></td>
         <td>
           <div class="pub-title">PhD</div>
           <div class="pub-authors">Thesis: Uncertainty Quantification for Inverse Problems with Sparsity-Promoting Implicit Priors.</div>
@@ -298,9 +303,9 @@ redirect_from:
                                   Thesis: <a href="https://orbit.dtu.dk/files/390213132/phd_thesis_JMEV.pdf">DTU Orbit</a></div>
         </td>
       </tr>
-
       <tr>
-        <td class="year-col">Sep 2018 - Aug 2021</td>
+        <td class="year-col">Sep 2018 - Aug 2021 <br> 
+        <img src="/images/imgs/uu.png"></td>
         <td>
           <div class="pub-title">Master of Science (MSc), Mathematical Sciences</div>
           <div class="pub-authors">University: Utrecht University, Utrecht, the Netherlands</div>
@@ -310,9 +315,9 @@ redirect_from:
                                   Thesis: <a href="https://studenttheses.uu.nl/bitstream/handle/20.500.12932/41296/Master_thesis_Jasper_Everink.pdf">UU student theses</a></div>
         </td>
       </tr>
-
       <tr>
-        <td class="year-col">Sep 2015 - Aug 2018</td>
+        <td class="year-col">Sep 2015 - Aug 2018 <br> 
+        <img src="/images/imgs/uu.png"></td>
         <td>
           <div class="pub-title">Bachelor of Science (BSc), Mathematics</div>
           <div class="pub-authors">University: Utrecht University, Utrecht, the Netherlands</div>
@@ -321,9 +326,9 @@ redirect_from:
                                   Thesis: <a href="https://studenttheses.uu.nl/bitstream/handle/20.500.12932/29861/thesis.pdf">UU student theses</a></div>
         </td>
       </tr>
-
             <tr>
-        <td class="year-col">Sep 2015 - Aug 2018</td>
+        <td class="year-col">Sep 2015 - Aug 2018 <br> 
+        <img src="/images/imgs/uu.png"></td>
         <td>
           <div class="pub-title">Bachelor of Science (BSc), Computer Science</div>
           <div class="pub-authors">University: Utrecht University, Utrecht, the Netherlands</div>
@@ -333,11 +338,9 @@ redirect_from:
                                   Thesis related publication: <a href="https://ieeexplore.ieee.org/abstract/document/8802100">IEEE</a></div>
         </td>
       </tr>
-
     </tbody>
   </table>
 </div>
-
 
 <h2 class="pub-heading">Teaching Experience</h2>
 <div class="table-wrapper">
