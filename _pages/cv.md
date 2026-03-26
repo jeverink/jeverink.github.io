@@ -182,7 +182,7 @@ redirect_from:
 }
 
 .year-col img {
-  width: 100%;
+  width: 80%;
   height: auto;
   display: block;
 }
