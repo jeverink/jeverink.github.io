@@ -52,6 +52,12 @@ redirect_from:
   background-color: #005fa3;
 }
 
+
+#tag-application + label { background: #bfe3dc; border-color: #bfe3dc;}
+#tag-models + label { background: #f4b5a7; border-color: #f4b5a7;}
+#tag-uq + label { background: #a7b8bd; border-color: #a7b8bd; }
+#tag-software + label { background: #f7d3a7; border-color: #f7d3a7; }
+#tag-other + label { background: #d6d8db; border-color: #d6d8db; }
 #tag-application:checked + label { background: #2a9d8f; border-color: #2a9d8f; }
 #tag-models:checked + label { background: #e76f51; border-color: #e76f51; }
 #tag-uq:checked + label { background: #264653; border-color: #264653; }
