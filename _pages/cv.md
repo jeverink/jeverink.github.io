@@ -396,8 +396,8 @@ redirect_from:
         <td>
           <div class="pub-authors">
             Inverse Days (Finland)<br>
-            Conference Talk: Joint Statistical Meetings (JSM, USA)<br>
-            Conference Talk: SSVM (UK)
+            Joint Statistical Meetings (JSM, USA) - Conference Talk<br>
+            SSVM (UK) - Conference Talk
           </div>
         </td>
       </tr>
@@ -405,9 +405,9 @@ redirect_from:
         <td class="year-col">2024</td>
         <td>
           <div class="pub-authors">
-            Conference Talk: Inverse Days (Finland)<br>
-            Workshop Talk: Uncertainty Quantification for Inverse Problems and Imaging (UQIPI24, United Kingdom)<br>
-            Conference Talk: SIAM Conference on Uncertainty Quantification (UQ24, Italy)
+            Inverse Days (Finland) - Conference Talk<br>
+            Uncertainty Quantification for Inverse Problems and Imaging (UQIPI24, United Kingdom) - Workshop Talk<br>
+            SIAM Conference on Uncertainty Quantification (UQ24, Italy) - Conference Talk
           </div>
         </td>
       </tr>
@@ -415,10 +415,10 @@ redirect_from:
         <td class="year-col">2023</td>
         <td>
           <div class="pub-authors">
-            Conference Talk: Inverse Days (Finland)<br>
-            Poster: Computational Mathematics for Data Science (CMDS, Denmark)<br>
-            Conference Talk: Applied Inverse Problems (AIP23, Germany)<br>
-            Conference Talk: SIAM Conference on Computational Science and Engineering (CSE23, Netherlands)<br>
+            Inverse Days (Finland) - Conference Talk<br>
+            Computational Mathematics for Data Science (CMDS, Denmark) - Poster<br>
+            Applied Inverse Problems (AIP23, Germany) - Conference Talk<br>
+            SIAM Conference on Computational Science and Engineering (CSE23, Netherlands) - Conference Talk<br>
           </div>
         </td>
       </tr>
@@ -426,9 +426,9 @@ redirect_from:
         <td class="year-col">2022</td>
         <td>
           <div class="pub-authors">
-            Short Talk: Inverse Days (Finland)<br>
-            Workshop Talk: Imaging with Uncertainty Quantification (IUQ22, Denmark)<br>
-            Conference Talk: SIAM Conference on Imaging Science (IS22, virtual)</div>
+            Inverse Days (Finland) - Short Talk<br>
+            Imaging with Uncertainty Quantification (IUQ22, Denmark) - Workshop Talk<br>
+            SIAM Conference on Imaging Science (IS22, virtual) - Conference Talk</div>
         </td>
       </tr>
     </tbody>
