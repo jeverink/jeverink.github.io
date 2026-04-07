@@ -282,7 +282,7 @@ redirect_from:
   <label for="tag-other" class="tag-btn">Other</label>
 </div>
 
-<h2 class="pub-heading">Publications</h2>
+<h2 class="pub-heading">Peer-reviewed publications</h2>
 <div class="table-wrapper">
   <table id="paperTable" class="pub-table">
     <thead>
@@ -307,28 +307,12 @@ redirect_from:
           <div class="pub-source">Paper: <a href="http://doi.org/10.1088/1361-6587/ae3858">IOP</a></div>
         </td>
       </tr>
-      <tr data-tags="models uq software" data-type="preprint">
-        <td>
-          <div class="pub-title">A computational framework and implementation of implicit priors in Bayesian inverse problems</div>
-          <div class="pub-authors"><i>Everink, J. M.</i>, Zhang, C., Alghamdi, A. M. A., Laumont, R., Riis, N.A.B. and Jørgensen, J.S.</div>
-          <div class="pub-venue">arXiv (preprint) - 2025</div>
-          <div class="pub-source">Paper: <a href="https://arxiv.org/abs/2509.11781">arXiv</a>, Code: <a href="https://doi.org/10.5281/zenodo.17115255">Zenodo</a></div>
-        </td>
-      </tr>
       <tr data-tags="uq" data-type="conference">
         <td>
           <div class="pub-title">Self-supervised conformal prediction for uncertainty quantification in imaging problems</div>
           <div class="pub-authors"><i>Everink, J. M.</i>, Amougou, B.T. and Pereyra, M.</div>
           <div class="pub-venue">SSVM 2025 (conference) - 2025</div>
           <div class="pub-source">Paper: <a href="https://link.springer.com/chapter/10.1007/978-3-031-92366-1_9">Springer</a>,  <a href="https://arxiv.org/abs/2502.05127">arXiv</a></div>
-        </td>
-      </tr>
-      <tr data-tags="models" data-type="preprint">
-        <td>
-          <div class="pub-title">The geometry and well-posedness of sparse regularized linear regression</div>
-          <div class="pub-authors"><i>Everink, J. M.</i>, Dong, Y. and Andersen, M.S.</div>
-          <div class="pub-venue">arXiv (preprint) - 2024</div>
-          <div class="pub-source">Paper: <a href="https://arxiv.org/abs/2409.03461">arXiv</a></div>
         </td>
       </tr>
       <tr data-tags="application models" data-type="journal">
@@ -361,6 +345,36 @@ redirect_from:
           <div class="pub-authors">Prasetya, W. et al.</div>
           <div class="pub-venue">ICSE-SEET 2019 (conference) - 2019</div>
           <div class="pub-source">Paper: <a href="https://ieeexplore.ieee.org/abstract/document/8802100">IEEE</a>, <a href="https://arxiv.org/abs/1903.00334">arXiv</a></div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+<h2 class="pub-heading">Preprints</h2>
+<div class="table-wrapper">
+  <table id="paperTable" class="pub-table">
+    <thead>
+      <tr>
+        <th>Publication</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr data-tags="models uq software" data-type="preprint">
+        <td>
+          <div class="pub-title">A computational framework and implementation of implicit priors in Bayesian inverse problems</div>
+          <div class="pub-authors"><i>Everink, J. M.</i>, Zhang, C., Alghamdi, A. M. A., Laumont, R., Riis, N.A.B. and Jørgensen, J.S.</div>
+          <div class="pub-venue">arXiv (preprint) - 2025</div>
+          <div class="pub-source">Paper: <a href="https://arxiv.org/abs/2509.11781">arXiv</a>, Code: <a href="https://doi.org/10.5281/zenodo.17115255">Zenodo</a></div>
+        </td>
+      </tr>
+      <tr data-tags="models" data-type="preprint">
+        <td>
+          <div class="pub-title">The geometry and well-posedness of sparse regularized linear regression</div>
+          <div class="pub-authors"><i>Everink, J. M.</i>, Dong, Y. and Andersen, M.S.</div>
+          <div class="pub-venue">arXiv (preprint) - 2024</div>
+          <div class="pub-source">Paper: <a href="https://arxiv.org/abs/2409.03461">arXiv</a></div>
         </td>
       </tr>
     </tbody>
