@@ -22,8 +22,8 @@ The following is a list of errors in the published and peer-reviewed article:
     \mathbb{P}(\Pi_C^{\Sigma^{-1}}(x^\star) \in E)\,=\, \int_{E + \Sigma N_C}\pi_{x^\star}(w)\text{d}w
     \propto \pi_F(z)\,\propto\, \int_{\Sigma N_C}\int_{E} \pi_{x^\star}(z + v)\text{d}v\text{d}z.
     $$
-- **Figure 7:** In the top two subplots regarding the Autocorrelation Function (ACF) for $\lambda$ and $\delta$, the data labels are incorrect. Whilst the conclusions do not change, the correct data shown is the following:
-    - ACF for $\lambda$, unconstrained is the only correct one.
-    - ACF for $\lambda$, with nonnegativity shows ACF for $\delta$, with nonnegativity.
-    - ACF for $\delta$, unconstrained shows ACF for $\lambda$, with nonnegativity.
-    - ACF for $\delta$, with nonnegativity shows ACF for $\delta$, unconstrained.
+- **Figure 7:** In the top two subplots regarding the Autocorrelation Function (ACF) for \\(\lambda\\) and \\(\delta\\), the data labels are incorrect. Whilst the conclusions do not change, the correct data shown is the following:
+    - ACF for \\(\lambda\\), unconstrained is the only correct one.
+    - ACF for \\(\lambda\\), with nonnegativity shows ACF for \\(\delta\\), with nonnegativity.
+    - ACF for \\(\delta\\), unconstrained shows ACF for \\(\lambda\\), with nonnegativity.
+    - ACF for \\(\delta\\), with nonnegativity shows ACF for \\(\delta\\), unconstrained.
