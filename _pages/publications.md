@@ -328,7 +328,7 @@ redirect_from:
           <div class="pub-title">Sparse Bayesian inference with regularized Gaussian distributions</div>
           <div class="pub-authors"><i>Everink, J. M.</i>, Dong, Y. and Andersen, M.S.</div>
           <div class="pub-venue">Inverse Problems (journal) - 2023</div>
-          <div class="pub-source">Paper: <a href="https://iopscience.iop.org/article/10.1088/1361-6420/acf9c5">IOP</a></div>
+          <div class="pub-source">Paper: <a href="https://iopscience.iop.org/article/10.1088/1361-6420/acf9c5">IOP</a>, Other: <a href="{{ '/errata/regularized_gaussians' | relative_url }}">errata</a></div>
         </td>
       </tr>
       <tr data-tags="models uq" data-type="journal">
@@ -336,7 +336,7 @@ redirect_from:
           <div class="pub-title">Bayesian inference with projected densities</div>
           <div class="pub-authors"><i>Everink, J. M.</i>, Dong, Y. and Andersen, M.S.</div>
           <div class="pub-venue">SIAM/ASA Journal on Uncertainty Quantification (journal) - 2023</div>
-          <div class="pub-source">Paper: <a href="https://orbit.dtu.dk/en/publications/bayesian-inference-with-projected-densities/">DTU Orbit</a>, <a href="https://epubs.siam.org/doi/full/10.1137/22M150695X">SIAM</a>, <a href="https://arxiv.org/abs/2209.12481">arXiv</a></div>
+          <div class="pub-source">Paper: <a href="https://orbit.dtu.dk/en/publications/bayesian-inference-with-projected-densities/">DTU Orbit</a>, <a href="https://epubs.siam.org/doi/full/10.1137/22M150695X">SIAM</a>, <a href="https://arxiv.org/abs/2209.12481">arXiv</a>, Other: <a href="{{ '/errata/projected_densities' | relative_url }}">errata</a></div>
         </td >
       </tr>
       <tr data-tags="software other" data-type="conference">
