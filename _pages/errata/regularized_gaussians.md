@@ -12,7 +12,7 @@ The following is a list of errors in the published and peer-reviewed article:
 
 # Errors mentioned in appendix PhD thesis:
 
-- **Lemma 3:** Equation (25) should not have the minus in the exponent of $\delta$, i.e.,
+- **Lemma 3:** Equation (25) should not have the minus in the exponent of \\(\delta\\), i.e.,
 $$
 \pi(x\,|\, \delta, F_j) \,\propto\, \delta^{\text{dim}(F_j)/2}\exp\left(-\frac{\delta}{2}\|Lx\|_2^2 - \sqrt{\delta}f(x)\right).
 $$
