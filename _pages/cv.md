@@ -365,7 +365,9 @@ redirect_from:
       <tr>
         <td>
           <div class="pub-title">Course work</div>
-          <div class="pub-authors">DTU Teaching Lab (2.5 ECTS, Summer 2022)</div>
+          <div class="pub-authors">Teaching Lab (2.5 ECTS, Summer 2022, Technical University of Denmark)<br>
+          Teaching Assistant Training (1 ECTS, 2019, Utrecht University)
+          </div>
         </td>
       </tr>
       <tr>
