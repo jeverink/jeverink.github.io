@@ -173,6 +173,11 @@ redirect_from:
   text-decoration: underline;
 }
 
+.pub-authors a {
+  color: inherit;          /* use same color as surrounding text */
+  text-decoration: underline;
+}
+
 /* Year column */
 .year-col {
   width: 60px;
@@ -364,9 +369,16 @@ redirect_from:
       </tr>
       <tr>
         <td>
-          <div class="pub-title">Course work</div>
+          <div class="pub-title">Teaching related course work</div>
           <div class="pub-authors">Teaching Lab (2.5 ECTS, Summer 2022, Technical University of Denmark)<br>
           Teaching Assistant Training (1 ECTS, 2019, Utrecht University)
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div class="pub-title">Teaching related software</div>
+          <div class="pub-authors">FormalZ (Can Learning Formal Specification Be Fun?): <a href="https://ieeexplore.ieee.org/abstract/document/8802100">Paper</a>, <a href="https://github.com/FormalZ">Code</a>
           </div>
         </td>
       </tr>
