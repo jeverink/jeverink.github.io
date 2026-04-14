@@ -377,7 +377,7 @@ redirect_from:
       </tr>
       <tr>
         <td>
-          <div class="pub-title">Teaching related software</div>
+          <div class="pub-title">Education related software</div>
           <div class="pub-authors">FormalZ (Can Learning Formal Specification Be Fun?): <a href="https://ieeexplore.ieee.org/abstract/document/8802100">Paper</a>, <a href="https://github.com/FormalZ">Code</a>
           </div>
         </td>
