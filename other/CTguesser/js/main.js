@@ -208,3 +208,27 @@ function pickRandomWord() {
     }
     console.log("Word length not supported.");
 }
+
+
+
+// Color modes
+
+const root = document.documentElement;
+const btn = document.getElementById("themeToggle");
+const key = "theme";
+
+const prefersLight = matchMedia("(prefers-color-scheme: light)").matches;
+let theme = localStorage.getItem(key) || (prefersLight ? "light" : "dark");
+
+function apply(t) {
+  root.toggleAttribute("data-theme", t === "light");
+  btn.textContent = t === "light" ? "Toggle to dark mode ☀️" : "Toggle to light mode 🌙";
+  localStorage.setItem(key, t);
+}
+
+apply(theme);
+
+btn.addEventListener("click", () => {
+  theme = theme === "light" ? "dark" : "light";
+  apply(theme);
+});

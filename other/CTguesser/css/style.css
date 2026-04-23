@@ -1,15 +1,14 @@
-
 body {
   margin: 0;
   padding: 12px;
   font-family: sans-serif;
-  background: #111;
-  color: #eee;
+  background: var(--bg);
+  color: var(--text);
   touch-action: manipulation;
 }
 
 canvas {
-  border: 1px solid #555;
+  border: 1px solid var(--border);
   display: block;
   margin: 12px auto;
   image-rendering: pixelated;
@@ -69,7 +68,7 @@ html, body {
   width: 100%;
   flex: 1;
   height: 8px;
-  background: #444;
+  background: var(--slider-track);
   border-radius: 4px;
   outline: none;
   transition: background 0.2s;
@@ -78,7 +77,7 @@ html, body {
 }
 
 #angleSlider:hover {
-  background: #666;
+  background: var(--slider-track-hover);
 }
 
 #angleSlider::-webkit-slider-thumb {
@@ -86,28 +85,28 @@ html, body {
   appearance: none;
   width: 20px;
   height: 20px;
-  background: #4caf50;
+  background: var(--accent);
   border-radius: 50%;
   cursor: pointer;
   transition: background 0.2s, transform 0.2s;
 }
 
 #angleSlider::-webkit-slider-thumb:hover {
-  background: #81c784;
+  background: var(--accent2);
   transform: scale(1.1);
 }
 
 #angleSlider::-moz-range-thumb {
   width: 20px;
   height: 20px;
-  background: #4caf50;
+  background: var(--accent);
   border-radius: 50%;
   cursor: pointer;
   transition: background 0.2s, transform 0.2s;
 }
 
 #angleSlider::-moz-range-thumb:hover {
-  background: #81c784;
+  background: var(--accent2);
   transform: scale(1.1);
 }
 
@@ -118,11 +117,10 @@ html, body {
   gap: 12px;
 }
 
-
 #angleLabel {
   min-width: 90px;
   font-size: 1.25em;
-  color: #eee;
+  color: var(--text);
   white-space: nowrap;
 }
 
@@ -135,11 +133,33 @@ html, body {
 }
 
 #backText {
-  color: #eee;
+  color: var(--text);
   font-size: 1.25em;
 }
 
 #backBtn {
   font-size: 16px;
   padding: 8px 16px;
+}
+
+
+#themeToggle {
+  position: fixed;
+  top: 12px;
+  right: 12px;
+  z-index: 3000;
+
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+
+  padding: 8px 10px;
+  border-radius: 10px;
+  cursor: pointer;
+
+  box-shadow: 0 6px 18px rgba(0,0,0,0.18);
+}
+
+#themeToggle:active {
+  transform: translateY(1px);
 }

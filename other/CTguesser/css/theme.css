@@ -1,0 +1,47 @@
+/* =========================
+   Theme tokens (Dark default)
+   ========================= */
+:root {
+  color-scheme: dark;
+
+  --bg: #111;
+  --text: #eee;
+
+  --muted: #aaa;
+  --border: #555;
+
+  --surface: #111;                  /* card/panel bg */
+  --overlay: rgba(17, 17, 17, 0.95);/* intro/tutorial overlay */
+
+  --slider-track: #444;
+  --slider-track-hover: #666;
+
+  --accent: #4caf50;
+  --accent2: #81c784;
+
+  --btn-text: rgba(17, 17, 17, 0.95);
+}
+
+/* =========================
+   Light theme overrides
+   ========================= */
+:root[data-theme] {
+  color-scheme: light;
+
+  --bg: #f6f7f9;
+  --text: #111;
+
+  --muted: #555;
+  --border: #c9cdd3;
+
+  --surface: #ffffff;
+  --overlay: rgba(246, 247, 249, 0.95);
+
+  --slider-track: #d6dbe3;
+  --slider-track-hover: #c3cad6;
+
+  --accent: #2e7d32;
+  --accent2: #66bb6a;
+
+  --btn-text: #0b0f0c;
+}

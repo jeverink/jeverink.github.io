@@ -5,8 +5,8 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(17, 17, 17, 0.95);
-  color: #eee;
+  background: var(--overlay);
+  color: var(--text);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -56,22 +56,20 @@
 }
 
 .btn {
-  background: linear-gradient(135deg, #4caf50, #81c784);
+  background: linear-gradient(135deg, var(--accent), var(--accent2));
   border: none;
   cursor: pointer;
   transition: all 0.2s ease;
   border-radius: 10px;
-  
   padding: 6px 0;
-
-  color: rgba(17, 17, 17, 0.95);
+  color: var(--btn-text);
   font-size: 15px;
   font-weight: 1000;
 }
 
 #introFooter {
   font-size: 12px;
-  color: #aaa;
+  color: var(--muted);
   text-align: center;
   margin-top: 16px;
   opacity: 0.8;
@@ -85,20 +83,23 @@
 #tutorialOverlay {
   position: fixed;
   inset: 0;
-  background: rgba(17, 17, 17, 0.95);
+  background: var(--overlay);
   z-index: 2000;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
+
 #tutorialContent {
   max-width: 600px;
   padding: 2rem;
-  background: #111;
+  background: var(--surface);
   border-radius: 12px;
   text-align: center;
+  color: var(--text);
 }
+
 
 #tutorialNav {
   display: flex;
