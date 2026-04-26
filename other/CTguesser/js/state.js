@@ -7,6 +7,9 @@ let Mode = null; // Either Explore, Full or Limited
 let Guesses = 0;
 let Solved = false;
 
+let LimitedState = null; // Either Unlock or Guess
+let UnlockedAngles = null;
+
 let answer = null;
 let wordGrid = null;
 

@@ -20,17 +20,17 @@ const tutorialPages = [
   },
   {
     title: "Target projections",
-    text: "The target projection is shown in green. The angle can be changed at any time using the slider.",
+    text: "The target projections are shown in green. The angle can be changed at any time using the slider.",
     image: "imgs/tutorial_4.png",
   },
   {
     title: "Guessing",
-    text: "Try to infer the letters that will match the target projection.",
+    text: "Try to infer the letters that match the target projections.",
     image: "imgs/tutorial_5.png",
   },
   {
     title: "Goal",
-    text: "Find the word that matches the target. Good luck!",
+    text: "Find the word that matches the target projections for all angles. Good luck!",
     image: "imgs/tutorial_6.png"
   },
 ];

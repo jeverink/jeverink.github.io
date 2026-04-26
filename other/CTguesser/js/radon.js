@@ -40,11 +40,34 @@ function radonTransform(imageData, width, height, angles) {
 }
 
 
+function unlockAngle(){
+  theta = -parseInt(angleSlider.value);
+  if (UnlockedAngles.includes(theta)) {
+    return false;
+  }
+  UnlockedAngles.push(theta);
+  drawBothCanvases();
+  return true;
+}
+
 
 /* ===============================
    Compute Radon
 =============================== */
 function computeRadon(){
+  if (Mode == "Limited") {
+    if (LimitedState == "Unlock") {
+      if (unlockAngle()) {
+        computeBtn.innerHTML = "Guess";
+        LimitedState = "Guess";
+      }
+      return;
+    }
+    computeBtn.innerHTML = "Unlock angle";
+    LimitedState = "Unlock";
+
+  }
+
   let flag = false;
   //if (grid.flat().join('') === lastGuess){return;}
 

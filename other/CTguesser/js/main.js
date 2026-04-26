@@ -25,7 +25,7 @@ function resetGrid() {
   if (Mode == "Explore"){
     topText.innerHTML = "Exploration";
     computeBtn.innerHTML = "Compute";
-  } else {
+  } else if (Mode == "Full") {
     topText.innerHTML = "0 Guesses";
     computeBtn.innerHTML = "Guess";
     answer = pickRandomWord();
@@ -36,6 +36,20 @@ function resetGrid() {
     )
     );
     referenceSinogram = computeSinogramForGrid(wordGrid);
+  } else if (Mode == "Limited") {
+    topText.innerHTML = "0 Guesses";
+    computeBtn.innerHTML = "Unlock angle";
+    LimitedState = "Unlock";
+    UnlockedAngles = [];
+    answer = pickRandomWord();
+
+    wordGrid = Array.from({ length: N }, (_, row) =>
+    Array.from({ length: N }, (_, col) =>
+        answer[(row * N + col) % answer.length] // repeat letters if needed
+    )
+    );
+    referenceSinogram = computeSinogramForGrid(wordGrid);
+
   }
 
   /* ===== Draw visible UI normally ===== */
@@ -72,8 +86,8 @@ const startExplore9Btn = document.getElementById('startExplore9Btn');
 const startFull4Btn = document.getElementById('startFull4Btn');
 const startFull9Btn = document.getElementById('startFull9Btn');
 
-// const startLimited4Btn = document.getElementById('startLimited4Btn');
-// const startLimited9Btn = document.getElementById('startLimited9Btn');
+const startLimited4Btn = document.getElementById('startLimited4Btn');
+const startLimited9Btn = document.getElementById('startLimited9Btn');
 
 startExplore1Btn.addEventListener('click', () => {introOverlay.style.display = 'none'; N = 1; Mode = "Explore"; resetGrid();});
 startExplore4Btn.addEventListener('click', () => {introOverlay.style.display = 'none'; N = 2; Mode = "Explore"; resetGrid();});
@@ -82,8 +96,8 @@ startExplore9Btn.addEventListener('click', () => {introOverlay.style.display = '
 startFull4Btn.addEventListener('click', () => {introOverlay.style.display = 'none'; N = 2; Mode = "Full"; resetGrid();});
 startFull9Btn.addEventListener('click', () => {introOverlay.style.display = 'none'; N = 3; Mode = "Full"; resetGrid();});
 
-// startLimited4Btn.addEventListener('click', () => {introOverlay.style.display = 'none'; N = 2; Mode = "Limited"; resetGrid();});
-// startLimited9Btn.addEventListener('click', () => {introOverlay.style.display = 'none'; N = 3; Mode = "Limited"; resetGrid();});
+startLimited4Btn.addEventListener('click', () => {introOverlay.style.display = 'none'; N = 2; Mode = "Limited"; resetGrid();});
+startLimited9Btn.addEventListener('click', () => {introOverlay.style.display = 'none'; N = 3; Mode = "Limited"; resetGrid();});
 
 const backBtn = document.getElementById('backBtn');
 backBtn.addEventListener('click', () => {

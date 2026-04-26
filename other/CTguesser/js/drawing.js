@@ -142,7 +142,8 @@ function drawProjectionAtAngle(theta){
   ctx.stroke();
 
   /* ===== Reference projection (if exists) ===== */
-  if (refProj) {
+  let drawReferenceFlag = (Mode != "Limited") || (UnlockedAngles.includes(theta))
+  if (refProj && drawReferenceFlag) {
     ctx.strokeStyle = color_reference;
     ctx.lineWidth = lw_reference;
     ctx.beginPath();
