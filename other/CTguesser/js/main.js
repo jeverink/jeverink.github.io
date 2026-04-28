@@ -85,9 +85,11 @@ const startExplore9Btn = document.getElementById('startExplore9Btn');
 
 const startFull4Btn = document.getElementById('startFull4Btn');
 const startFull9Btn = document.getElementById('startFull9Btn');
+const startFull16Btn = document.getElementById('startFull16Btn');
 
 const startLimited4Btn = document.getElementById('startLimited4Btn');
 const startLimited9Btn = document.getElementById('startLimited9Btn');
+const startLimited16Btn = document.getElementById('startLimited16Btn');
 
 startExplore1Btn.addEventListener('click', () => {introOverlay.style.display = 'none'; N = 1; Mode = "Explore"; resetGrid();});
 startExplore4Btn.addEventListener('click', () => {introOverlay.style.display = 'none'; N = 2; Mode = "Explore"; resetGrid();});
@@ -95,9 +97,11 @@ startExplore9Btn.addEventListener('click', () => {introOverlay.style.display = '
 
 startFull4Btn.addEventListener('click', () => {introOverlay.style.display = 'none'; N = 2; Mode = "Full"; resetGrid();});
 startFull9Btn.addEventListener('click', () => {introOverlay.style.display = 'none'; N = 3; Mode = "Full"; resetGrid();});
+startFull16Btn.addEventListener('click', () => {introOverlay.style.display = 'none'; N = 4; Mode = "Full"; resetGrid();});
 
 startLimited4Btn.addEventListener('click', () => {introOverlay.style.display = 'none'; N = 2; Mode = "Limited"; resetGrid();});
 startLimited9Btn.addEventListener('click', () => {introOverlay.style.display = 'none'; N = 3; Mode = "Limited"; resetGrid();});
+startLimited16Btn.addEventListener('click', () => {introOverlay.style.display = 'none'; N = 4; Mode = "Limited"; resetGrid();});
 
 const backBtn = document.getElementById('backBtn');
 backBtn.addEventListener('click', () => {
@@ -211,6 +215,18 @@ const nineLetterWords = [
 ];
 
 
+const sixteenLetterWords = [
+  "ABSENTMINDEDNESS", "ABSTRACTEDNESSES", "AUTOIMMUNIZATION", "BENEFICIALNESSES", "BIOSTATISTICIANS", "BUREAUCRATICALLY",
+  "BIOMATHEMATICIAN", "CALLIGRAPHICALLY", "CINEMATOGRAPHERS", "COUNTERQUESTIONS", "DESERTIFICATIONS", "DISTRIBUTIVITIES",
+  "DODECAPHONICALLY", "EXISTENTIALISTIC", "ELECTROTHERMALLY", "ECCLESIASTICALLY", "FALSIFIABILITIES", "FLUOROSCOPICALLY",
+  "FERROELECTRICITY", "GEOMORPHOLOGISTS", "GASTROINTESTINAL", "GRANDPARENTHOODS", "HOSPITALIZATIONS", "HYPERVENTILATING",
+  "HISTORIOGRAPHERS", "INCORRUPTIBILITY", "INSTITUTIONALIST", "INTRAMOLECULARLY", "JOURNALISTICALLY", "JURISDICTIONALLY", 
+  "JUSTIFIABILITIES", "KNOWLEDGEABILITY", "LITHOGRAPHICALLY", "LOCALIZABILITIES", "LANDLUBBERLINESS", "MICRORADIOGRAPHS",
+  "MISCOMMUNICATION", "MARGINALIZATIONS", "RADIOAUTOGRAPHIC", "RECONCENTRATIONS", "REINDUSTRIALIZED", "TOTALITARIANIZED",
+  "TRANSMISSIBILITY", "TRADITIONALISTIC",
+];
+
+
 function pickRandomWord() {
     if (N == 2){
       const randomIndex = Math.floor(Math.random() * fourLetterWords.length);
@@ -219,6 +235,10 @@ function pickRandomWord() {
     if (N == 3){
       const randomIndex = Math.floor(Math.random() * nineLetterWords.length);
       return nineLetterWords[randomIndex];
+    }
+    if (N == 4){
+      const randomIndex = Math.floor(Math.random() * sixteenLetterWords.length);
+      return sixteenLetterWords[randomIndex];
     }
     console.log("Word length not supported.");
 }
