@@ -65,6 +65,8 @@
   color: var(--btn-text);
   font-size: 15px;
   font-weight: 1000;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
 }
 
 #introFooter {
