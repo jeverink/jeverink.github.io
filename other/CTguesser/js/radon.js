@@ -63,9 +63,10 @@ function computeRadon(){
       }
       return;
     }
-    computeBtn.innerHTML = "Unlock angle";
-    LimitedState = "Unlock";
-
+    if (UnlockedAngles.length < 37) {
+      computeBtn.innerHTML = "Unlock angle";
+      LimitedState = "Unlock";
+    }
   }
 
   let flag = false;

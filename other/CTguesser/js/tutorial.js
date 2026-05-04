@@ -33,6 +33,10 @@ const tutorialPages = [
     text: "Find the word that matches the target projections for all angles. Good luck!",
     image: "imgs/tutorial_6.png"
   },
+  {
+    title: "Good luck!",
+    text: "Recommendation: start with the 1 letter modes to build some intuition."
+  },
 ];
 
 let tutorialIndex = 0;

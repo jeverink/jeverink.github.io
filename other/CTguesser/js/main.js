@@ -83,6 +83,7 @@ const startExplore1Btn = document.getElementById('startExplore1Btn');
 const startExplore4Btn = document.getElementById('startExplore4Btn');
 const startExplore9Btn = document.getElementById('startExplore9Btn');
 
+const startFull1Btn = document.getElementById('startFull1Btn');
 const startFull4Btn = document.getElementById('startFull4Btn');
 const startFull9Btn = document.getElementById('startFull9Btn');
 const startFull16Btn = document.getElementById('startFull16Btn');
@@ -95,6 +96,7 @@ startExplore1Btn.addEventListener('click', () => {introOverlay.style.display = '
 startExplore4Btn.addEventListener('click', () => {introOverlay.style.display = 'none'; N = 2; Mode = "Explore"; resetGrid();});
 startExplore9Btn.addEventListener('click', () => {introOverlay.style.display = 'none'; N = 3; Mode = "Explore"; resetGrid();});
 
+startFull1Btn.addEventListener('click', () => {introOverlay.style.display = 'none'; N = 1; Mode = "Full"; resetGrid();});
 startFull4Btn.addEventListener('click', () => {introOverlay.style.display = 'none'; N = 2; Mode = "Full"; resetGrid();});
 startFull9Btn.addEventListener('click', () => {introOverlay.style.display = 'none'; N = 3; Mode = "Full"; resetGrid();});
 startFull16Btn.addEventListener('click', () => {introOverlay.style.display = 'none'; N = 4; Mode = "Full"; resetGrid();});
@@ -110,7 +112,10 @@ backBtn.addEventListener('click', () => {
 });
 
 
-
+const oneLetterWords = [
+  "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M",
+  "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"
+];
 
 const fourLetterWords = [
   "ABLE","ACID","AGED","ALSO","AREA","ARMY","AWAY","BABY","BACK","BALL",
@@ -228,6 +233,10 @@ const sixteenLetterWords = [
 
 
 function pickRandomWord() {
+    if (N == 1){
+      const randomIndex = Math.floor(Math.random() * oneLetterWords.length);
+      return oneLetterWords[randomIndex];
+    }
     if (N == 2){
       const randomIndex = Math.floor(Math.random() * fourLetterWords.length);
       return fourLetterWords[randomIndex];
