@@ -449,3 +449,22 @@ redirect_from:
     </tbody>
   </table>
 </div>
+
+
+<h2 class="pub-heading">Other</h2>
+<div class="table-wrapper">
+  <table id="paperTable" class="pub-table">
+    <tbody>
+      <tr>
+        <td>
+          <div class="pub-title">Peer reviewing</div>
+          <div class="pub-authors">
+          SIAM/ASA Journal on Uncertainty Quantification (2025, 2026)<br>
+          SIAM Journal on Mathematics of Data Science (2026)<br>
+          IEEE Transactions on Computational Imaging (2026)
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
