@@ -291,6 +291,14 @@ redirect_from:
       </tr>
     </thead>
     <tbody>
+      <tr data-tags="models" data-type="journal">
+        <td>
+          <div class="pub-title">The geometry and well-posedness of sparse regularized linear regression</div>
+          <div class="pub-authors"><i>Everink, J. M.</i>, Dong, Y. and Andersen, M.S.</div>
+          <div class="pub-venue">Inverse Problems (journal) - 2026</div>
+          <div class="pub-source">Paper: <a href="TO ADD ONCE FORMALLY ACCEPTED">IOP</a></div>
+        </td>
+      </tr>
       <tr data-tags="models uq" data-type="journal">
         <td>
           <div class="pub-title">Efficient monotonic Gaussian processes via Randomize-then-Optimize</div>
@@ -361,20 +369,20 @@ redirect_from:
       </tr>
     </thead>
     <tbody>
+      <tr data-tags="models uq" data-type="preprint">
+        <td>
+          <div class="pub-title">Random spanning tree Markov random field priors for Bayesian inverse problems in imaging</div>
+          <div class="pub-authors"><i>Everink, J. M.</i></div>
+          <div class="pub-venue">arXiv (preprint) - 2026</div>
+          <div class="pub-source">Paper: <a href="https://arxiv.org/abs/2605.18619">arXiv</a></div>
+        </td>
+      </tr>
       <tr data-tags="models uq software" data-type="preprint">
         <td>
           <div class="pub-title">A computational framework and implementation of implicit priors in Bayesian inverse problems</div>
           <div class="pub-authors"><i>Everink, J. M.</i>, Zhang, C., Alghamdi, A. M. A., Laumont, R., Riis, N.A.B. and Jørgensen, J.S.</div>
           <div class="pub-venue">arXiv (preprint) - 2025</div>
           <div class="pub-source">Paper: <a href="https://arxiv.org/abs/2509.11781">arXiv</a>, Code: <a href="https://doi.org/10.5281/zenodo.17115255">Zenodo</a></div>
-        </td>
-      </tr>
-      <tr data-tags="models" data-type="preprint">
-        <td>
-          <div class="pub-title">The geometry and well-posedness of sparse regularized linear regression</div>
-          <div class="pub-authors"><i>Everink, J. M.</i>, Dong, Y. and Andersen, M.S.</div>
-          <div class="pub-venue">arXiv (preprint) - 2024</div>
-          <div class="pub-source">Paper: <a href="https://arxiv.org/abs/2409.03461">arXiv</a></div>
         </td>
       </tr>
     </tbody>
@@ -412,3 +420,25 @@ redirect_from:
       </tr>
     </tbody>
   </table>
+
+
+<h2 class="pub-heading">Other</h2>
+<div class="table-wrapper">
+  <table id="paperTable" class="pub-table">
+    <thead>
+      <tr>
+        <th>Contributed sections</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr data-tags="models uq software" data-type="preprint">
+        <td>
+          <div class="pub-title">Uncertainty Quantification in Inverse Problems with CUQIpy</div>
+          <div class="pub-authors">training material on how to use the CUQIpy library for uncertainty quantification in inverse problems</div>
+          <div class="pub-venue">Various sections on implicit priors</div>
+          <div class="pub-source">Source: <a href="https://cuqi-dtu.github.io/CUQI-Book/">GitHub</a></div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

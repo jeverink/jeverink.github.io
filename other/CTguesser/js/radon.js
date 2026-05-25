@@ -2,6 +2,7 @@
    Radon Transform
 =============================== */
 function radonTransform(imageData, width, height, angles) {
+  // Performs a Radon transform by rotating the content of a canvas and then sum over the columns.
   const sinogram = [];
   const srcCanvas = document.createElement('canvas');
   const srcCtx = srcCanvas.getContext('2d');
