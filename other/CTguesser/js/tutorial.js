@@ -19,7 +19,7 @@ const tutorialPages = [
   },
   {
     title: "Input",
-    text: "Tap any cell to enter a letter.",
+    text: "Tap/click any cell to enter a letter.",
     image: "imgs/tutorial_3.png",
   },
   {
