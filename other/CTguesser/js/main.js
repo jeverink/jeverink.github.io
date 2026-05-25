@@ -11,7 +11,10 @@ function resetGrid() {
   angleSlider.value = 0;
   angleLabel.textContent = `Angle: 0°`;
 
-  const maxWidth = Math.min(window.innerWidth - 24, 480);
+  const controls = document.getElementById("controls");
+  const availableWidth = controls.clientWidth;
+  const maxWidth = Math.min(availableWidth, 480);
+
   cellSize = Math.floor(maxWidth / N);
 
   canvas.width = N * cellSize;
