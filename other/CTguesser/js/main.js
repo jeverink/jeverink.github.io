@@ -71,9 +71,83 @@ hiddenInput.addEventListener('keydown', (e) => {
   if (e.key === 'Enter') {
     e.preventDefault(); // optional, but recommended
     hiddenInput.blur();   // ← THIS closes the keyboard
-    computeRadon();
+    compute();
   }
 });
+
+
+
+
+function unlockAngle(){
+  // Unlocks an angle if not already unlocked
+  theta = -parseInt(angleSlider.value);
+  if (UnlockedAngles.includes(theta)) {
+    return false;
+  }
+  UnlockedAngles.push(theta);
+  drawBothCanvases();
+  return true;
+}
+
+
+/* ===============================
+   On press of the compute/guess/unlock button at the bottom of the screen.
+=============================== */
+function compute(){
+  if (Mode == "Limited") {
+    if (LimitedState == "Unlock") {
+      if (unlockAngle()) {
+        computeBtn.innerHTML = "Guess";
+        LimitedState = "Guess";
+      }
+      return;
+    }
+    // There are 37 possible angles. With this, the user can still keep guessing after all angles are unlocked.
+    if (UnlockedAngles.length < 37) {
+      computeBtn.innerHTML = "Unlock angle";
+      LimitedState = "Unlock";
+    }
+  }
+
+  let flag = false;
+
+  if (Mode != "Explore"){
+    if((grid.flat().join('') === answer) && !Solved){
+        Guesses++;
+        Solved = true;
+        activeCell.active = false;
+        flag = true;
+    }
+
+    if(!Solved){
+        Guesses++;
+        if(Guesses == 1) {
+          topText.innerHTML = Guesses + " Guess";
+        }
+        else {
+          topText.innerHTML = Guesses + " Guesses";
+        }
+    } else {
+        if(Guesses == 1) {
+          topText.innerHTML = "Solved in " + Guesses + " guess!";
+        }
+        else {
+          topText.innerHTML = "Solved in " + Guesses + " guesses!";
+        }
+    }
+  }
+  if (!Solved || flag) {
+    const imageData = dataCtx.getImageData(0,0,dataCanvas.width,dataCanvas.height);
+    const angles = [];
+    for (let a = -90; a <= 90; a += snap) {
+        angles.push(a);
+    }
+    sinogram = radonTransform(imageData, imageData.width, imageData.height, angles);
+  }
+  drawBothCanvases();
+}
+
+
 
 
 

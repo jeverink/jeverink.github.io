@@ -1,3 +1,6 @@
+// Horrendous code to make it work on both mobile and desktop devices.
+// In particular, it uses the "hiddenInput" to activate the phone keyboard.
+
 /* ===============================
    Cursor movement
 =============================== */
@@ -7,9 +10,8 @@ function moveCursor(dx, dy) {
   let x = activeCell.x + dx;
   let y = activeCell.y + dy;
 
-  // right overflow → next row
+  // Overflow rules
   if (x >= N) { x=0; y+=1; }
-  // left overflow → previous row
   if (x<0) { x=N-1; y-=1; }
 
   // clamp to grid
