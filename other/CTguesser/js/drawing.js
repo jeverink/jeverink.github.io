@@ -20,12 +20,16 @@ function drawBothCanvases() {
   drawUICanvas();
 }
 
+// The Data canvas (dataCanvas with context dataCtx) is used for computing the Radon transform.
+// Only draw things that should also be projected!
 function drawDataCanvas() {
   dataCtx.fillStyle = '#000';
   dataCtx.fillRect(0, 0, dataCanvas.width, dataCanvas.height);
   drawLetters(dataCtx);
 }
 
+// Draw everything that the user should see including:
+// the letters from the data canvas and overlays such as grid lines and the Radon projections.
 function drawUICanvas() {
   ctx.fillStyle = '#000';
   ctx.fillRect(0, 0, canvas.width, canvas.height);
@@ -73,9 +77,9 @@ function drawLetters(context) {
       const letter = grid[y][x];
       if (!letter) continue;
 
-      // Start with maximum font size
+      // Initial fontSize for measuring the actual size to rescale.
       let fontSize = cellSize;
-      context.font = `${fontSize}px Arial, sans-serif`;
+      context.font = `${fontSize}px Arial, sans-serif`; // Note, the actual font is device dependent!
 
       // Measure text dimensions
       let metrics = context.measureText(letter);
@@ -140,6 +144,9 @@ function drawProjectionAtAngle(theta){
   ctx.moveTo(offsetX, 0);
   ctx.lineTo(offsetX + length, 0);
   ctx.stroke();
+
+  // I tried combining both in a single path, highlighting the correct parts, but got weird results.
+  // Might want to look into it again
 
   /* ===== Reference projection (if exists) ===== */
   let drawReferenceFlag = (Mode != "Limited") || (UnlockedAngles.includes(theta))

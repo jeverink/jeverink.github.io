@@ -1,5 +1,5 @@
 /* ===============================
-   State
+   State variables
 =============================== */
 let N = 2;
 let Mode = null; // Either Explore, Full or Limited

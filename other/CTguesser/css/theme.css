@@ -11,7 +11,7 @@
   --border: #555;
 
   --surface: #111;                  /* card/panel bg */
-  --overlay: rgba(17, 17, 17, 0.95);/* intro/tutorial overlay */
+  --overlay: rgba(17, 17, 17, 0.99);/* intro/tutorial overlay */
 
   --slider-track: #444;
   --slider-track-hover: #666;
@@ -35,7 +35,7 @@
   --border: #c9cdd3;
 
   --surface: #ffffff;
-  --overlay: rgba(246, 247, 249, 0.95);
+  --overlay: rgba(246, 247, 249, 0.99);
 
   --slider-track: #d6dbe3;
   --slider-track-hover: #c3cad6;

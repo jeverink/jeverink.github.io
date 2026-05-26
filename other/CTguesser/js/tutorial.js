@@ -1,3 +1,7 @@
+/* ===============================
+   Code for managing the tutorial screen
+=============================== */
+
 const tutorialPages = [
   {
     title: "Welcome to CTguesser",
@@ -15,7 +19,7 @@ const tutorialPages = [
   },
   {
     title: "Input",
-    text: "Tap any cell to enter a letter.",
+    text: "Tap/click any cell to enter a letter.",
     image: "imgs/tutorial_3.png",
   },
   {
@@ -55,7 +59,7 @@ function renderTutorial() {
   tutorialTitle.textContent = page.title;
   tutorialText.textContent = page.text;
   tutorialProgress.textContent =
-    `Step ${tutorialIndex + 1} of ${tutorialPages.length}`;
+    `Pages ${tutorialIndex + 1} of ${tutorialPages.length}`;
 
   // Image handling
   if (page.image) {

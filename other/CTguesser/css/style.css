@@ -13,6 +13,11 @@ html, body {
   display: none !important;
 }
 
+a {
+  color: var(--muted);
+  text-decoration: none;
+}
+
 /* Introduction overlay */
 #introOverlay {
   position: fixed;
@@ -306,4 +311,18 @@ input[type=range] {
 
 #themeToggle:active {
   transform: translateY(1px);
+}
+
+/* The themeToggle overlaps the title on small screen.*/
+@media (max-height: 635px) {
+  #themeToggle {
+    position: static;
+    display: block;
+    width: 100%;
+    margin-top: 12px;
+  }
+
+  #introFooter {
+    padding-top: 12px;
+  }
 }
