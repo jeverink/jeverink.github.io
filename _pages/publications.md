@@ -291,14 +291,6 @@ redirect_from:
       </tr>
     </thead>
     <tbody>
-      <tr data-tags="models" data-type="journal">
-        <td>
-          <div class="pub-title">The geometry and well-posedness of sparse regularized linear regression</div>
-          <div class="pub-authors"><i>Everink, J. M.</i>, Dong, Y. and Andersen, M.S.</div>
-          <div class="pub-venue">Inverse Problems (journal) - 2026</div>
-          <div class="pub-source">Paper: <a href="TO ADD ONCE FORMALLY ACCEPTED">IOP</a></div>
-        </td>
-      </tr>
       <tr data-tags="models uq" data-type="journal">
         <td>
           <div class="pub-title">Efficient monotonic Gaussian processes via Randomize-then-Optimize</div>
@@ -383,6 +375,14 @@ redirect_from:
           <div class="pub-authors"><i>Everink, J. M.</i>, Zhang, C., Alghamdi, A. M. A., Laumont, R., Riis, N.A.B. and Jørgensen, J.S.</div>
           <div class="pub-venue">arXiv (preprint) - 2025</div>
           <div class="pub-source">Paper: <a href="https://arxiv.org/abs/2509.11781">arXiv</a>, Code: <a href="https://doi.org/10.5281/zenodo.17115255">Zenodo</a></div>
+        </td>
+      </tr>
+      <tr data-tags="models" data-type="preprint">
+        <td>
+          <div class="pub-title">The geometry and well-posedness of sparse regularized linear regression</div>
+          <div class="pub-authors"><i>Everink, J. M.</i>, Dong, Y. and Andersen, M.S.</div>
+          <div class="pub-venue">arXiv (preprint) - 2024</div>
+          <div class="pub-source">Paper: <a href="https://arxiv.org/abs/2409.03461">arXiv</a></div>
         </td>
       </tr>
     </tbody>
