@@ -263,6 +263,9 @@ redirect_from:
 
   <input type="radio" name="type" id="type-preprint" value="preprint">
   <label for="type-preprint" class="type-btn">Preprint</label>
+
+  <input type="radio" name="type" id="type-other" value="other">
+  <label for="type-other" class="type-btn">Other</label>
 </div>
 
 <div class="tag-filters">
@@ -397,21 +400,21 @@ redirect_from:
       </tr>
     </thead>
     <tbody>
-      <tr data-tags="models uq software" data-type="">
+      <tr data-tags="models uq software" data-type="other">
         <td>
           <div class="pub-title">PhD: Uncertainty Quantification for Inverse Problems with Sparsity-Promoting Implicit Priors</div>
           <div class="pub-venue">Technical University of Denmark - 2025</div>
           <div class="pub-source">Thesis: <a href="https://orbit.dtu.dk/files/390213132/phd_thesis_JMEV.pdf">DTU Orbit</a>, Code: <a href="https://github.com/CUQI-DTU/Thesis-JME">Github</a></div>
         </td>
       </tr>
-      <tr data-tags="models" data-type="">
+      <tr data-tags="models" data-type="other">
         <td>
           <div class="pub-title">MSc in Mathematical Sciences: One-bit Compressed Sensing with Generative Models</div>
           <div class="pub-venue">Utrecht University - 2021</div>
           <div class="pub-source">Thesis: <a href="https://studenttheses.uu.nl/bitstream/handle/20.500.12932/41296/Master_thesis_Jasper_Everink.pdf">UU student theses</a>, Code: <a href="https://github.com/jeverink/MastersThesis">Github</a></div>
         </td>
       </tr>
-        <tr data-tags="other" data-type="">
+        <tr data-tags="other" data-type="other">
         <td>
           <div class="pub-title">BSc in Mathematics: Numerically Solving The Wave Equation Using The Finite Element Method</div>
           <div class="pub-venue">Utrecht University - 2018</div>
@@ -431,7 +434,7 @@ redirect_from:
       </tr>
     </thead>
     <tbody>
-      <tr data-tags="models uq software" data-type="preprint">
+      <tr data-tags="models uq software" data-type="other">
         <td>
           <div class="pub-title">Uncertainty Quantification in Inverse Problems with CUQIpy</div>
           <div class="pub-authors">training material on how to use the CUQIpy library for uncertainty quantification in inverse problems</div>
