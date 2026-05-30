@@ -9,12 +9,12 @@ const tutorialPages = [
   },
   {
     title: "Projections",
-    text: "Each projection represents the distribution of the image at a given angle. Imagine all the pixels of the letter falling into one big pile.",
+    text: "Each projection represents the distribution of the image at a given angle. Imagine all the pixels of the letter falling into one big pile. In the image above, the this projection is onto the horizontal line.",
     image: "imgs/tutorial_1.png",
   },
   {
     title: "Projections",
-    text: "Different angles give different information.",
+    text: "Different angles give different information. In the image above, the projection is onto a diagonal line. Note how the big bump in the projection corresponds to a diagonal part the letter A.",
     image: "imgs/tutorial_2.png",
   },
   {
@@ -29,7 +29,7 @@ const tutorialPages = [
   },
   {
     title: "Guessing",
-    text: "Try to infer the letters that match the target projections.",
+    text: "The projections of the last guess are shown in red. Try to infer the letters that match the target projections.",
     image: "imgs/tutorial_5.png",
   },
   {
