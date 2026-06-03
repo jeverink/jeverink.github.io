@@ -302,6 +302,14 @@ redirect_from:
           <div class="pub-source">Paper: <a href="https://doi.org/10.1016/j.jcp.2026.114787">Elsevier</a>, Code: <a href="https://doi.org/10.5281/zenodo.15807484">Zenodo</a></div>
         </td>
       </tr>
+      <tr data-tags="models" data-type="journal">
+        <td>
+          <div class="pub-title">The geometry and well-posedness of sparse regularized linear regression</div>
+          <div class="pub-authors"><i>Everink, J. M.</i>, Dong, Y. and Andersen, M.S.</div>
+          <div class="pub-venue">Inverse Problems (journal) - 2026</div>
+          <div class="pub-source">Paper: <a href="https://doi.org/10.1088/1361-6420/ae762d">IOP</a></div>
+        </td>
+      </tr>
       <tr data-tags="application uq" data-type="journal">
         <td>
           <div class="pub-title">Bayesian velocity-space tomography with collision- and charge-exchange-physics prior from fast-ion D-alpha measurements at TCV with uncertainty quantification</div>
@@ -380,14 +388,6 @@ redirect_from:
           <div class="pub-source">Paper: <a href="https://arxiv.org/abs/2509.11781">arXiv</a>, Code: <a href="https://doi.org/10.5281/zenodo.17115255">Zenodo</a></div>
         </td>
       </tr>
-      <tr data-tags="models" data-type="preprint">
-        <td>
-          <div class="pub-title">The geometry and well-posedness of sparse regularized linear regression</div>
-          <div class="pub-authors"><i>Everink, J. M.</i>, Dong, Y. and Andersen, M.S.</div>
-          <div class="pub-venue">arXiv (preprint) - 2024</div>
-          <div class="pub-source">Paper: <a href="https://arxiv.org/abs/2409.03461">arXiv</a></div>
-        </td>
-      </tr>
     </tbody>
   </table>
 </div>
@@ -438,7 +438,7 @@ redirect_from:
         <td>
           <div class="pub-title">Uncertainty Quantification in Inverse Problems with CUQIpy</div>
           <div class="pub-authors">training material on how to use the CUQIpy library for uncertainty quantification in inverse problems</div>
-          <div class="pub-venue">Various sections on implicit priors</div>
+          <div class="pub-venue">Various sections on implicit priors - 2026</div>
           <div class="pub-source">Source: <a href="https://cuqi-dtu.github.io/CUQI-Book/">GitHub</a></div>
         </td>
       </tr>
