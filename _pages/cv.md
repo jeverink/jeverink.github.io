@@ -407,6 +407,14 @@ redirect_from:
   <table id="paperTable" class="pub-table">
     <tbody>
       <tr>
+        <td class="year-col">2026</td>
+        <td>
+          <div class="pub-authors">
+            CUQI Perspectives(Denmark)
+          </div>
+        </td>
+      </tr>
+      <tr>
         <td class="year-col">2025</td>
         <td>
           <div class="pub-authors">
