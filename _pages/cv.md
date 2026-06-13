@@ -410,7 +410,7 @@ redirect_from:
         <td class="year-col">2026</td>
         <td>
           <div class="pub-authors">
-            CUQI Perspectives(Denmark)
+            CUQI Perspectives (Denmark) - Workshop Talk
           </div>
         </td>
       </tr>
