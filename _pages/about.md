@@ -24,23 +24,28 @@ Research Interests:
 
 My general research interests lie in using techniques from mathematical optimization, numerical mathematics and probability theory/statistics in inverse problems, image processing and machine learning. In particular, the theory and application of regularization strategies and prior modeling.
 
-Particular research includes:
-- Constrained and sparsity-promoting inference:
-    -  [monotonic Gaussian processes](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:roLk4NBRz8UC)
-    - [projected distributions](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:d1gkVwhDpl0C)
-    - [regularized Gaussians](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:9yKSN-GCB0IC)
-- Prior modeling strategies:
-    - [implicit priors](https://arxiv.org/abs/2509.11781)
-    - [one-bit compressed sensing with generative models](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:IjCSPb-OGe4C)
-- Imaging applications:
-    - [EIT with partial data](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:2osOgNQ5qMEC)
-    - [fast-ion tomography](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:_FxGoFyzp5QC)
-- Non-Bayesian uncertainty quantification methodologies:
-    - [self-supervised conformal prediction](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:zYLM7Y9cAGgC)
+### Constrained and sparsity-promoting inference
+Constraints naturally occur in many physical applications; incorporating them into the inference process can improve both single reconstructions and uncertainty estimations, which allows for better decision making. Sparsity is common assumption, e.g., the manifold hypothesis, that improve reconstructions in settings where only few measurements or very noisy measurements are observed. Some related work:
+- [monotonic Gaussian processes (journal)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:roLk4NBRz8UC)
+- [projected distributions (journal)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:d1gkVwhDpl0C)
+- [regularized Gaussians (journal)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:9yKSN-GCB0IC)
+- [one-bit compressed sensing with generative models (MSc thesis)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:IjCSPb-OGe4C)
 
-<!---
-For a more in-depth overview, <a href="{{ '/research/' | relative_url }}">go to the research page</a>.
--->
+### Prior modeling strategies
+- [computational framework for implicit priors (preprint)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:WF5omc3nYNoC)
+- [random spanning tree Markov random field priors (preprint)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:Se3iqnhoufwC)
+
+### Imaging applications
+- [EIT with partial data (journal)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:2osOgNQ5qMEC)
+- [fast-ion tomography (journal)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:_FxGoFyzp5QC)
+
+### Non-Bayesian uncertainty quantification
+- [self-supervised conformal prediction (conference proceeding)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:zYLM7Y9cAGgC)
+
+### Other interest: game-based learning
+- [CTguesser: A computed tomography word guessing game (software)](https://jeverink.github.io/other/CTguesser/)
+- [having fun in learning formal specifications (conference proceeding)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uCQwNJoAAAAJ&citation_for_view=uCQwNJoAAAAJ:qjMakFHDy7sC)
+
 
 Previous positions:
 ======
