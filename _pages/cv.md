@@ -470,6 +470,7 @@ redirect_from:
           SIAM/ASA Journal on Uncertainty Quantification (2025, 2026)<br>
           SIAM Journal on Mathematics of Data Science (2026)<br>
           IEEE Transactions on Computational Imaging (2026)<br>
+          Journal of Computational Physics (2026)<br>
           + 2 (hidden for anonymity)
           </div>
         </td>
