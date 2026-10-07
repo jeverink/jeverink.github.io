@@ -3,7 +3,6 @@ permalink: /test_about/
 title: ""
 author_profile: true
 redirect_from: 
-  - /test_about/
   - /test_about.html
 ---
 
