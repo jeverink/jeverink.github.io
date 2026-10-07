@@ -26,19 +26,14 @@ My general research interests lie in using techniques from mathematical optimiza
 
 <div markdown="1">
 
-### Methods
-
+## Methods
 **Topics:**
-
-▸ constraints & sparsity
-
-▸ uncertainty quantification
+- constraints & sparsity
+- uncertainty quantification
 
 **Examples:**
-
-▸ Monotonic Gaussian processes
-
-▸ Self-supervised conformal prediction
+- Monotonic Gaussian processes
+- Self-supervised conformal prediction
 
 
 </div>
@@ -47,21 +42,16 @@ My general research interests lie in using techniques from mathematical optimiza
 
 <div markdown="1">
 
-### Applications
+## Applications
 
 **Topics:**
-
-▸ inverse problems
-
-▸ imaging
+- inverse problems
+- imaging
 
 **Examples:**
-
-▸ Fast-ion tomography
-
-▸ EIT with partial data
-
-▸ MRSI
+- Fast-ion tomography
+- EIT with partial data
+- MRSI
 
 </div>
 
@@ -69,20 +59,16 @@ My general research interests lie in using techniques from mathematical optimiza
 
 <div markdown="1">
 
-### Theory
+## Theory
 
 **Topics:**
-
-▸ regularization
-
-▸ priors
-
-▸ well-posedness
+- regularization
+- priors
+- well-posedness
 
 
 **Examples:**
-
-▸ Regularized Gaussians
+- Regularized Gaussians
 
 </div>
 
@@ -90,19 +76,15 @@ My general research interests lie in using techniques from mathematical optimiza
 
 <div markdown="1">
 
-### Software & Tools
+## Software & Tools
 
 **Topics:**
-
-▸ inverse problems
-
-▸ imaging
+- inverse problems
+- imaging
 
 **Examples:**
-
-▸ Implicit priors in CUQIpy
-
-▸ CTGuesser
+- Implicit priors in CUQIpy
+- CTGuesser
 
 </div>
 
