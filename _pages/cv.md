@@ -354,17 +354,23 @@ redirect_from:
     <tbody>
       <tr>
         <td>
-          <div class="pub-title">Co-teacher</div>
+          <div class="pub-title">Teaching</div>
           <div class="pub-authors">
-            Introduction to Uncertainty Quantification for Inverse Problems (1.5 days, PhD level course, Summer 2024)</div>
+            Co-teaching: Introduction to Uncertainty Quantification for Inverse Problems (1.5 days, PhD level course, Summer 2024)<br>
+            Substitute teacher: Inverse Problems and Imaging (Fall 2022 and Fall 2025)<br>
+            Substitute teacher: Optimization and Data Fitting (Fall 2024)</div>
         </td>
       </tr>
       <tr>
         <td>
-          <div class="pub-title">Substitute teacher</div>
+          <div class="pub-title">Teaching assistance (TA)</div>
           <div class="pub-authors">
-            Inverse Problems and Imaging (Fall 2022 and Fall 2025)<br>
-            Optimization and Data Fitting (Fall 2024)</div>
+            Mathematical Software Programming (Fall 2022 and Fall 2023)  @ DTU<br>
+            Optimization and Data Fitting (Fall 2022) @ DTU
+            Numerical Mathematics (Fall 2018, Fall 2019 and Fall 2020) @ UU<br>
+            Calculus and Linear Algebra 1 & 2 (Fall 2020) @ UU<br>
+            Stochastic Processes (Spring 2020) @ UU
+          </div>
         </td>
       </tr>
       <tr>
@@ -380,21 +386,6 @@ redirect_from:
           <div class="pub-title">Education related software</div>
           <div class="pub-authors">FormalZ (Can Learning Formal Specification Be Fun?) - 2018: <a href="https://ieeexplore.ieee.org/abstract/document/8802100">Paper</a>, <a href="https://github.com/FormalZ">Code</a><br>
            CTguesser (A computed tomography word guessing game) - 2026: <a href="https://jeverink.github.io/other/CTguesser/">try now</a>
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <div class="pub-title">Teaching assistance (TA) during PhD at the Technical University of Denmark</div>
-          <div class="pub-authors">
-            Mathematical Software Programming (Fall 2022 and Fall 2023)<br>
-            Optimization and Data Fitting (Fall 2022)
-          </div>
-          <div class="pub-title">Teaching assistance (TA) during MSc at Utrecht University</div>
-          <div class="pub-authors">
-            Numerical Mathematics (Fall 2018, Fall 2019 and Fall 2020)<br>
-            Calculus and Linear Algebra 1 & 2 (Fall 2020)<br>
-            Stochastic Processes (Spring 2020)
           </div>
         </td>
       </tr>
