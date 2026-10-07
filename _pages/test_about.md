@@ -28,31 +28,64 @@ My general research interests lie in using techniques from mathematical optimiza
 
 ### Methods
 
-Constrained and sparsity-promoting inference for ill-posed inverse problems.
+**Topics:**
+▸ constraints & sparsity
+▸ uncertainty quantification
+
+**Examples:**
+▸ Monotonic Gaussian processes
+▸ Self-supervised conformal prediction
+
+
 </div>
 
-
-<div markdown="1">
-
-### Theory
-
-Foundations of regularization and uncertainty quantification.
-</div>
 
 
 <div markdown="1">
 
 ### Applications
 
-Computational imaging and inverse problems.
+**Topics:**
+▸ inverse problems
+▸ imaging
+
+**Examples:**
+▸ Fast-ion tomography
+▸ EIT with partial data
+▸ MRSI
+
 </div>
+
+
+
+<div markdown="1">
+
+### Theory
+
+**Topics:**
+▸ regularization
+▸ priors
+▸ well-posedness
+
+**Examples:**
+▸ Regularized Gaussians
+
+</div>
+
 
 
 <div markdown="1">
 
 ### Software & Tools
 
-Computational frameworks and educational software.
+**Topics:**
+▸ inverse problems
+▸ imaging
+
+**Examples:**
+▸ Implicit priors in CUQIpy
+▸ CTGuesser
+
 </div>
 
 </div>
