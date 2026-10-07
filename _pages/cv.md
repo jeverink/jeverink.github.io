@@ -366,7 +366,7 @@ redirect_from:
           <div class="pub-title">Teaching assistance (TA)</div>
           <div class="pub-authors">
             Mathematical Software Programming (Fall 2022 and Fall 2023)  @ DTU<br>
-            Optimization and Data Fitting (Fall 2022) @ DTU
+            Optimization and Data Fitting (Fall 2022) @ DTU<br>
             Numerical Mathematics (Fall 2018, Fall 2019 and Fall 2020) @ UU<br>
             Calculus and Linear Algebra 1 & 2 (Fall 2020) @ UU<br>
             Stochastic Processes (Spring 2020) @ UU
