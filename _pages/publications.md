@@ -284,7 +284,7 @@ redirect_from:
   <input type="checkbox" id="tag-application" value="application">
   <label for="tag-application" class="tag-btn">Applications</label>
 
-  <input type="checkbox" id="tag-software " value="software">
+  <input type="checkbox" id="tag-software" value="software">
   <label for="tag-software" class="tag-btn">Software</label>
 
   <input type="checkbox" id="tag-other" value="other">
