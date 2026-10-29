@@ -264,6 +264,12 @@ redirect_from:
   <input type="radio" name="type" id="type-preprint" value="preprint">
   <label for="type-preprint" class="type-btn">Preprint</label>
 
+  <input type="radio" name="type" id="type-cs" value="cs">
+  <label for="type-cs" class="type-btn">Contributed Sections</label>
+
+  <input type="radio" name="type" id="type-thesis" value="thesis">
+  <label for="type-thesis" class="type-btn">Thesis</label>
+
   <input type="radio" name="type" id="type-other" value="other">
   <label for="type-other" class="type-btn">Other</label>
 </div>
@@ -278,7 +284,7 @@ redirect_from:
   <input type="checkbox" id="tag-application" value="application">
   <label for="tag-application" class="tag-btn">Applications</label>
 
-  <input type="checkbox" id="tag-software" value="software">
+  <input type="checkbox" id="tag-software " value="software">
   <label for="tag-software" class="tag-btn">Software</label>
 
   <input type="checkbox" id="tag-other" value="other">
@@ -392,49 +398,17 @@ redirect_from:
   </table>
 </div>
 
-<h2 class="pub-heading">Theses</h2>
-  <table id="paperTable" class="pub-table">
-    <thead>
-      <tr>
-        <th>Thesis</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr data-tags="models uq software" data-type="other">
-        <td>
-          <div class="pub-title">PhD: Uncertainty Quantification for Inverse Problems with Sparsity-Promoting Implicit Priors</div>
-          <div class="pub-venue">Technical University of Denmark - 2025</div>
-          <div class="pub-source">Thesis: <a href="https://orbit.dtu.dk/files/390213132/phd_thesis_JMEV.pdf">DTU Orbit</a>, Code: <a href="https://github.com/CUQI-DTU/Thesis-JME">Github</a></div>
-        </td>
-      </tr>
-      <tr data-tags="models" data-type="other">
-        <td>
-          <div class="pub-title">MSc in Mathematical Sciences: One-bit Compressed Sensing with Generative Models</div>
-          <div class="pub-venue">Utrecht University - 2021</div>
-          <div class="pub-source">Thesis: <a href="https://studenttheses.uu.nl/bitstream/handle/20.500.12932/41296/Master_thesis_Jasper_Everink.pdf">UU student theses</a>, Code: <a href="https://github.com/jeverink/MastersThesis">Github</a></div>
-        </td>
-      </tr>
-        <tr data-tags="other" data-type="other">
-        <td>
-          <div class="pub-title">BSc in Mathematics: Numerically Solving The Wave Equation Using The Finite Element Method</div>
-          <div class="pub-venue">Utrecht University - 2018</div>
-          <div class="pub-source">Thesis: <a href="https://studenttheses.uu.nl/bitstream/handle/20.500.12932/29861/thesis.pdf">UU student theses</a>, Code: <a href="https://github.com/jeverink/BachelorsThesis">Github</a></div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
 
-
-<h2 class="pub-heading">Other</h2>
+<h2 class="pub-heading">Contributed Sections</h2>
 <div class="table-wrapper">
   <table id="paperTable" class="pub-table">
     <thead>
       <tr>
-        <th>Contributed sections</th>
+        <th>Book</th>
       </tr>
     </thead>
     <tbody>
-      <tr data-tags="models uq software" data-type="other">
+      <tr data-tags="models uq software" data-type="cs">
         <td>
           <div class="pub-title">Uncertainty Quantification in Inverse Problems with CUQIpy</div>
           <div class="pub-authors">training material on how to use the CUQIpy library for uncertainty quantification in inverse problems</div>
@@ -445,3 +419,39 @@ redirect_from:
     </tbody>
   </table>
 </div>
+
+
+<h2 class="pub-heading">Theses</h2>
+<div class="table-wrapper">
+  <table id="paperTable" class="pub-table">
+    <thead>
+      <tr>
+        <th>Thesis</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr data-tags="models uq software" data-type="thesis">
+        <td>
+          <div class="pub-title">PhD: Uncertainty Quantification for Inverse Problems with Sparsity-Promoting Implicit Priors</div>
+          <div class="pub-venue">Technical University of Denmark - 2025</div>
+          <div class="pub-source">Thesis: <a href="https://orbit.dtu.dk/files/390213132/phd_thesis_JMEV.pdf">DTU Orbit</a>, Code: <a href="https://github.com/CUQI-DTU/Thesis-JME">Github</a></div>
+        </td>
+      </tr>
+      <tr data-tags="models" data-type="thesis">
+        <td>
+          <div class="pub-title">MSc in Mathematical Sciences: One-bit Compressed Sensing with Generative Models</div>
+          <div class="pub-venue">Utrecht University - 2021</div>
+          <div class="pub-source">Thesis: <a href="https://studenttheses.uu.nl/bitstream/handle/20.500.12932/41296/Master_thesis_Jasper_Everink.pdf">UU student theses</a>, Code: <a href="https://github.com/jeverink/MastersThesis">Github</a></div>
+        </td>
+      </tr>
+        <tr data-tags="other" data-type="thesis">
+        <td>
+          <div class="pub-title">BSc in Mathematics: Numerically Solving The Wave Equation Using The Finite Element Method</div>
+          <div class="pub-venue">Utrecht University - 2018</div>
+          <div class="pub-source">Thesis: <a href="https://studenttheses.uu.nl/bitstream/handle/20.500.12932/29861/thesis.pdf">UU student theses</a>, Code: <a href="https://github.com/jeverink/BachelorsThesis">Github</a></div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+

@@ -28,4 +28,28 @@ document.addEventListener("DOMContentLoaded", function () {
       row.style.display = (typeMatch && tagMatch) ? "" : "none";
     });
   }
+
+  // Hide empty tables and their headings
+  document.querySelectorAll(".table-wrapper").forEach(wrapper => {
+    const table = wrapper.querySelector("table");
+
+    const hasVisibleRows = Array.from(
+      table.querySelectorAll("tbody tr")
+    ).some(row => row.style.display !== "none");
+
+    const heading = wrapper.previousElementSibling;
+
+    if (hasVisibleRows) {
+      wrapper.style.display = "";
+      if (heading?.classList.contains("pub-heading")) {
+        heading.style.display = "";
+      }
+    } else {
+      wrapper.style.display = "none";
+      if (heading?.classList.contains("pub-heading")) {
+        heading.style.display = "none";
+      }
+    }
+  });
+
 });
