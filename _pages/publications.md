@@ -420,6 +420,25 @@ redirect_from:
   </table>
 </div>
 
+<h2 class="pub-heading">Notes (Not peer-reviewed, less polished)</h2>
+<div class="table-wrapper">
+  <table id="paperTable" class="pub-table">
+    <thead>
+      <tr>
+        <th>Notes</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr data-tags="other" data-type="other">
+        <td>
+          <div class="pub-title">On the convergence of the sequence \(|\cos(n)|^{n^\alpha}\) for \(\alpha > 0\).</div>
+          <div class="pub-authors">Resolution of a generalization of a problem I thought of during my BSc in mathematics. Proof that the titular sequence converges precisely when \(\alpha > 2\), if and only if, the irrationality exponent of \(\pi\) equals 2. The latter is claimed in an OpenAI manuscript.</div>
+          <div class="pub-source">Source: <a href="https://jeverink.github.io/other/Notes/sequence_convergence-V1.pdf">GitHub</a></div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <h2 class="pub-heading">Theses</h2>
 <div class="table-wrapper">
