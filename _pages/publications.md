@@ -436,6 +436,13 @@ redirect_from:
           <div class="pub-source">Source: <a href="https://jeverink.github.io/other/Notes/sequence_convergence-V1.pdf">GitHub</a></div>
         </td>
       </tr>
+      <tr data-tags="other" data-type="other">
+        <td>
+          <div class="pub-title">Rough notes on ``Cramér–Rao Bounds for Three-Point Decomposition of Water and Fat'' (2005) by Pineda, et al.</div>
+          <div class="pub-authors">Notes on the mathematical derivation of the optimal solutions found in the titular paper, which only provides a derivation through numerical optimization.</div>
+          <div class="pub-source">Source: <a href="https://jeverink.github.io/other/Notes/Cramer_Rao_Ideal-V1.pdf">GitHub</a></div>
+        </td>
+      </tr>
     </tbody>
   </table>
 </div>
