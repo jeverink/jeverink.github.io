@@ -466,6 +466,15 @@ redirect_from:
           </div>
         </td>
       </tr>
+      <tr>
+        <td>
+          <div class="pub-title">Other services</div>
+          <div class="pub-authors">
+          2025: Jury member of the preliminary round of Countdown to Houston, a competition to select two  Dutch pre-university student to participate in the United Space School in Houston, Texas<br>
+          2016-2017: Committee member of the Dutch Game Development and Research Club (DGDARC), part of the Sticky study association 
+          </div>
+        </td>
+      </tr>
     </tbody>
   </table>
 </div>
