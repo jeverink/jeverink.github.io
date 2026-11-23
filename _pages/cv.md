@@ -462,7 +462,8 @@ redirect_from:
           SIAM Journal on Mathematics of Data Science (2026)<br>
           IEEE Transactions on Computational Imaging (2026 2x)<br>
           Journal of Computational Physics (2026)<br>
-          + 2 (hidden for anonymity)
+          Annals of the Institute of Statistical Mathematics (2026)<br>
+          International Journal for Uncertainty Quantification (2026)
           </div>
         </td>
       </tr>
